@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas!
 
-[![GitHub seguidores](https://img.shields.io/github/followers/seu-usuario?style=social)](https://github.com/seu-usuario?tab=followers)
-[![GitHub estrelas](https://img.shields.io/github/stars/seu-usuario?style=social)](https://github.com/seu-usuario?tab=repositories)
+[![GitHub seguidores](https://img.shields.io/github/followers/Lucasantunesribeiro?style=social)](https://github.com/seu-usuario?tab=followers)
+[![GitHub estrelas](https://img.shields.io/github/stars/Lucasantunesribeiro?style=social)](https://github.com/seu-usuario?tab=repositories)
 
 Sou desenvolvedor com foco em **desenvolvimento web**, sempre buscando aprender e aplicar novas tecnologias para resolver problemas reais.
 
