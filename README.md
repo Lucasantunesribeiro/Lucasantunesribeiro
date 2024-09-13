@@ -31,7 +31,8 @@ Sou desenvolvedor com foco em **desenvolvimento web**, sempre buscando aprender 
 
 ## 📈 Estatísticas do GitHub
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?Lucasantunesribeiro&show_icons=true&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&theme=radical)
+
 
 ## 📫 Contato
 
