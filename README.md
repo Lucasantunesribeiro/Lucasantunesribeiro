@@ -12,7 +12,7 @@ Sou um entusiasta da tecnologia com foco em desenvolvimento web, sempre buscando
 ## 🚀 Habilidades
 
 - **Frontend**: React, HTML, CSS, JavaScript
-- **Backend**: C#, ASP.NET Core, PHP
+- **Backend**: C#, ASP.NET Core, PHP, Laravel
 - **Banco de Dados**: SQL Server, MySQL, SQLite, MongoDB
 - **DevOps & Cloud**: Vercel, GitHub Actions, CI/CD
 - **Outros**: Git, APIs RESTful, Clean Architecture, Testes Automatizados
