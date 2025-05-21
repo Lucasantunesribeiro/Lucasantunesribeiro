@@ -24,8 +24,8 @@ Sou um entusiasta da tecnologia com foco em desenvolvimento web, sempre buscando
 ### [LinkGuardião](https://github.com/Lucasantunesribeiro/LinkGuardiao)
 LinkGuardião é um sistema completo de encurtamento de URLs com proteção e estatísticas. O projeto oferece uma solução para criar, gerenciar e monitorar links curtos, com recursos avançados como proteção por senha, expiração automática e análise detalhada de acessos.
 
-### [Dashboard Locadora de Carros](https://github.com/Lucasantunesribeiro/dashbord-locadora-carros)
-Criação de um dashboard administrativo para uma locadora de carros, com funcionalidades de CRUD, filtros avançados e gráficos interativos. Utilização de Clean Architecture e testes automatizados para garantir a qualidade do código.
+### [Simulador de Emissão Automatizada de NF-e](https://github.com/Lucasantunesribeiro/simulador_emissor)
+Projeto completo para emissão automatizada de Nota Fiscal Eletrônica (NF-e) com .NET 9, arquitetura em camadas, testes automatizados, health check, pronto para CI/CD, Docker e cache distribuído.
 
 ### [Alura Book](https://github.com/Lucasantunesribeiro/Alurabook)
 Projeto desenvolvido durante o curso da Alura, focado na criação de uma aplicação de e-commerce de livros. Implementação de funcionalidades como carrinho de compras, sistema de busca e integração com APIs externas.
