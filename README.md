@@ -21,8 +21,8 @@ Sou um entusiasta da tecnologia com foco em desenvolvimento web, sempre buscando
 
 ## 💼 Projetos Recentes
 
-### [Hamburgueria Website](https://github.com/Lucasantunesribeiro/hamburgueria-website)
-Desenvolvimento de uma aplicação web responsiva para uma hamburgueria fictícia, utilizando React no frontend e ASP.NET Core no backend. Implementação de autenticação de usuários, sistema de pedidos e integração com banco de dados SQL Server.
+### [LinkGuardião](https://github.com/Lucasantunesribeiro/LinkGuardiao)
+LinkGuardião é um sistema completo de encurtamento de URLs com proteção e estatísticas. O projeto oferece uma solução para criar, gerenciar e monitorar links curtos, com recursos avançados como proteção por senha, expiração automática e análise detalhada de acessos.
 
 ### [Dashboard Locadora de Carros](https://github.com/Lucasantunesribeiro/dashbord-locadora-carros)
 Criação de um dashboard administrativo para uma locadora de carros, com funcionalidades de CRUD, filtros avançados e gráficos interativos. Utilização de Clean Architecture e testes automatizados para garantir a qualidade do código.
