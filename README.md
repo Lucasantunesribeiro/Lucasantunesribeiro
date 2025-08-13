@@ -1,54 +1,100 @@
-# 👋 Olá, eu sou o Lucas Antunes Ferreira
+Olá, sou o Lucas Antunes Ferreira! 👋
+Desenvolvedor Fullstack | C# .NET | React | Node.js | APIs REST | Cloud & DevOps
+Seja bem-vindo(a) ao meu universo de código! Sou um Desenvolvedor Fullstack apaixonado por construir soluções robustas e escaláveis, com foco em Clean Architecture, testes automatizados e implantações eficientes. Minha jornada na tecnologia é impulsionada pela busca constante por aprendizado e pela aplicação de boas práticas para entregar software de alta qualidade.
 
-🎯 **Desenvolvedor Fullstack C# | ASP.NET Core | React | APIs REST | Clean Architecture | Testes | Cloud & DevOps | Git | SQL & MongoDB**
+Com experiência no ciclo de vida completo do software, desde a concepção até o deploy em produção, eu me posiciono como um desenvolvedor "Triple-Threat": combinando um sólido background Fullstack (C#, .NET Core, React, Node.js), especialização em áreas de alta demanda (Cloud, DevOps, Microserviços) e soft skills essenciais para o mercado brasileiro.
 
-Sou um entusiasta da tecnologia com foco em desenvolvimento web, sempre buscando aprender e aplicar novas tecnologias para resolver problemas reais. Tenho experiência em projetos que envolvem desde o frontend até o backend, utilizando boas práticas de desenvolvimento e arquitetura limpa.
+🚀 Minhas Habilidades
+Aqui estão as tecnologias e ferramentas com as quais eu trabalho e me aprofundo:
 
-[![GitHub seguidores](https://img.shields.io/github/followers/Lucasantunesribeiro?style=social)](https://github.com/Lucasantunesribeiro?tab=followers)
-[![GitHub estrelas](https://img.shields.io/github/stars/Lucasantunesribeiro?style=social)](https://github.com/Lucasantunesribeiro?tab=repositories)
+Linguagens & Frameworks
+Backend: C# (.NET Core, ASP.NET Core, Entity Framework), Node.js (Express.js), PHP (Laravel), Python, Java (Spring Boot)
 
----
+Frontend: React.js, Next.js, Angular, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
 
-## 🚀 Habilidades
+Bancos de Dados
+SQL Server, PostgreSQL, MySQL, SQLite, MongoDB, Redis, Oracle
 
-- **Frontend**: React, TypeScript, HTML5, CSS3, JavaScript
-- **Backend**: C#, ASP.NET Core, PHP, Laravel, NodeJS
-- **Banco de Dados**: SQL Server, MySQL, SQLite, MongoDB
-- **DevOps & Cloud**: Vercel, GitHub Actions, CI/CD
-- **Outros**: Git, APIs RESTful, Clean Architecture, Testes Automatizados
+Cloud & DevOps
+AWS (EC2, S3, Lambda, SQS), Azure, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Terraform, Nginx, Prometheus, Grafana
 
----
+Arquitetura & Boas Práticas
+Clean Architecture, SOLID Principles, DDD (Domain-Driven Design), Event-Driven Architecture (EDA), Event Sourcing, CQRS, Design Patterns, Microsserviços, APIs RESTful (Swagger/OpenAPI, JWT)
 
-## 💼 Projetos Recentes
+Qualidade & Testes
+Testes Unitários (xUnit, Jest, PHPUnit), Testes de Integração, TDD (Test-Driven Development), BDD (Behavior-Driven Development), Clean Code, Code Review, Health Checks, Otimização de Performance
 
-### [LinkGuardião](https://github.com/Lucasantunesribeiro/LinkGuardiao)
-LinkGuardião é um sistema completo de encurtamento de URLs com proteção e estatísticas. O projeto oferece uma solução para criar, gerenciar e monitorar links curtos, com recursos avançados como proteção por senha, expiração automática e análise detalhada de acessos.
+Metodologias & Ferramentas
+Scrum, Kanban, Git, GitHub, Jira, Postman
 
-### [Simulador de Emissão Automatizada de NF-e](https://github.com/Lucasantunesribeiro/simulador_emissor)
-Projeto completo para emissão automatizada de Nota Fiscal Eletrônica (NF-e) com .NET 9, arquitetura em camadas, testes automatizados, health check, pronto para CI/CD, Docker e cache distribuído.
+💼 Projetos em Destaque
+Exploro diversas tecnologias e arquiteturas através dos meus projetos. Aqui estão alguns que demonstram minhas capacidades:
 
-### [Alura Book](https://github.com/Lucasantunesribeiro/Alurabook)
-Projeto desenvolvido durante o curso da Alura, focado na criação de uma aplicação de e-commerce de livros. Implementação de funcionalidades como carrinho de compras, sistema de busca e integração com APIs externas.
+Projeto
 
----
+Descrição
 
-## 📈 Estatísticas do GitHub
+Tecnologias Chave
+
+Status
+
+LinkGuardião 🔗🛡️
+
+Sistema completo de encurtamento de URLs com proteção por senha, expiração automática e análises detalhadas.
+
+ASP.NET Core, React, TypeScript, Tailwind CSS, SQLite, JWT
+
+✅ Online
+
+Simulador de Emissão Automatizada de NF-e
+
+Sistema completo para emissão automatizada de Nota Fiscal Eletrônica (NF-e) desenvolvido com .NET 9, seguindo Clean Architecture e pronto para produção com Docker Compose e deploy na AWS Lambda.
+
+.NET 9, C#, Clean Architecture, xUnit, Docker, AWS Lambda, PostgreSQL
+
+✅ Online (Ver API Docs)
+
+Sistema de Gestão de Pedidos Distribuído
+
+Sistema de gestão de pedidos com arquitetura de microsserviços, Event Sourcing, CQRS e comunicação assíncrona via RabbitMQ.
+
+Java (Spring Boot), React, TypeScript, PostgreSQL, RabbitMQ, Docker
+
+✅ Funcional
+
+SmartFinance - Sistema de Gestão Financeira Empresarial
+
+Sistema completo de gestão financeira com dashboards em tempo real, transações, gerenciamento de contas, segurança avançada e microserviços.
+
+.NET 8, Next.js 14, Node.js, MongoDB, Redis, Docker
+
+🚧 Em Desenvolvimento
+
+Armazém São Joaquim (Website Histórico)
+
+Website fullstack para um restaurante histórico, com sistema de reservas online, cardápio digital, blog cultural e dashboard administrativo.
+
+Next.js 14, React, TypeScript, Tailwind CSS, Supabase
+
+✅ Online
+
+Article Summarizer Agent
+
+Aplicação Python para extração, processamento e resumo automático de artigos web, com bypass avançado de WAFs e API RESTful.
+
+Python, Flask, Selenium, Cloudscraper, NLP
+
+✅ Funcional
+
+📊 Estatísticas do GitHub
+Acompanhe minha atividade no GitHub:
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=7&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=7&theme=radical&hide_title=true"/>
 </p>
 
----
+🌐 Conecte-se Comigo!
+Estou sempre aberto a novas conexões, projetos e oportunidades. Sinta-se à vontade para entrar em contato:
 
-## 📫 Contato
-
-Se quiser conversar sobre projetos ou colaborações, sinta-se à vontade para entrar em contato:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue)](https://www.linkedin.com/in/lucasantunesferreira)
-[![E-mail](https://img.shields.io/badge/Email-Contate%20meu%20email-green)](mailto:lucas.afvr@gmail.com)
-
----
-
-*Obrigado por visitar meu perfil!*
- quero que você reformule o readme do meu github, quero algo mais moderno e atrativo
+Obrigado por visitar meu perfil! Happy coding! ✨
