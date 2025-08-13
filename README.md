@@ -66,7 +66,7 @@ Com experiência no **ciclo de vida completo do software**, desde a concepção 
 
 ## 🌐 Conecte-se Comigo
 
-📧 **E-mail:** lucasantunesribeiro@outlook.com  
+📧 **E-mail:** lucas.afvr@gmail.com
 💼 **LinkedIn:** [linkedin.com/in/lucasantunesferreira](https://linkedin.com/in/lucasantunesferreira)  
 💻 **GitHub:** [github.com/Lucasantunesribeiro](https://github.com/Lucasantunesribeiro)  
 
