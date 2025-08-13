@@ -46,12 +46,12 @@ Com experiência no **ciclo de vida completo do software**, desde a concepção 
 
 | Projeto | Descrição | Tecnologias Chave | Status |
 |---------|-----------|-------------------|--------|
-| **LinkGuardião 🔗🛡️** | Encurtador de URLs com proteção por senha, expiração automática e análises detalhadas. | ASP.NET Core, React, TypeScript, Tailwind CSS, SQLite, JWT | ✅ Online |
-| **Simulador de Emissão Automatizada de NF-e** | Emissão automatizada de NF-e com .NET 9, Clean Architecture, Docker e deploy na AWS Lambda. | .NET 9, C#, xUnit, Docker, AWS Lambda, PostgreSQL | ✅ Online (API Docs) |
-| **Sistema de Gestão de Pedidos Distribuído** | Microsserviços com Event Sourcing, CQRS e RabbitMQ. | Java (Spring Boot), React, TypeScript, PostgreSQL, RabbitMQ, Docker | ✅ Funcional |
-| **SmartFinance** | Sistema de gestão financeira empresarial com dashboards em tempo real. | .NET 8, Next.js 14, Node.js, MongoDB, Redis, Docker | 🚧 Em Desenvolvimento |
-| **Armazém São Joaquim** | Website fullstack com reservas online, cardápio digital e blog cultural. | Next.js 14, React, TypeScript, Tailwind CSS, Supabase | ✅ Online |
-| **Article Summarizer Agent** | Extração e resumo automático de artigos web com NLP e API RESTful. | Python, Flask, Selenium, Cloudscraper, NLP | ✅ Funcional |
+| [**LinkGuardião 🔗🛡️**](https://github.com/Lucasantunesribeiro/LinkGuardiao) | Encurtador de URLs com proteção por senha, expiração automática e análises detalhadas. | ASP.NET Core, React, TypeScript, Tailwind CSS, SQLite, JWT | ✅ Online |
+| [**Simulador de Emissão Automatizada de NF-e**](https://github.com/Lucasantunesribeiro/simulador_emissor) | Emissão automatizada de NF-e com .NET 9, Clean Architecture, Docker e deploy na AWS Lambda. | .NET 9, C#, xUnit, Docker, AWS Lambda, PostgreSQL | ✅ Online (API Docs) |
+| [**Sistema de Gestão de Pedidos Distribuído**](https://github.com/Lucasantunesribeiro/Sistema_de_Gestao_de_Pedidos_Distribu-do_com_Event_Sourcing) | Microsserviços com Event Sourcing, CQRS e RabbitMQ. | Java (Spring Boot), React, TypeScript, PostgreSQL, RabbitMQ, Docker | ✅ Funcional |
+| [**SmartFinance**](https://github.com/Lucasantunesribeiro/smart_finance) | Sistema de gestão financeira empresarial com dashboards em tempo real. | .NET 8, Next.js 14, Node.js, MongoDB, Redis, Docker | 🚧 Em Desenvolvimento |
+| [**Armazém São Joaquim**](https://github.com/Lucasantunesribeiro/armazemsaojoaquim) | Website fullstack com reservas online, cardápio digital e blog cultural. | Next.js 14, React, TypeScript, Tailwind CSS, Supabase | ✅ Online |
+| [**Article Summarizer Agent**](https://github.com/Lucasantunesribeiro/article_summarizer_agent) | Extração e resumo automático de artigos web com NLP e API RESTful. | Python, Flask, Selenium, Cloudscraper, NLP | ✅ Funcional |
 
 ---
 
@@ -66,7 +66,7 @@ Com experiência no **ciclo de vida completo do software**, desde a concepção 
 
 ## 🌐 Conecte-se Comigo
 
-📧 **E-mail:** lucas.afvr@gmail.com
+📧 **E-mail:** lucas.afvr@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/lucasantunesferreira](https://linkedin.com/in/lucasantunesferreira)  
 💻 **GitHub:** [github.com/Lucasantunesribeiro](https://github.com/Lucasantunesribeiro)  
 
