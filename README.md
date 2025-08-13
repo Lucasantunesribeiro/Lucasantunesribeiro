@@ -58,7 +58,7 @@ Com experiência no **ciclo de vida completo do software**, desde a concepção 
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&theme=radical&hide_title=true" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=7&theme=radical&hide_title=true"/>
 </p>
 
