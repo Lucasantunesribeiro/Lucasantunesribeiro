@@ -52,7 +52,7 @@ Com experiência no **ciclo de vida completo do software**, desde a concepção 
 | [**SmartFinance**](https://github.com/Lucasantunesribeiro/smart_finance) | Sistema de gestão financeira empresarial com dashboards em tempo real. | .NET 8, Next.js 14, Node.js, MongoDB, Redis, Docker | 🚧 Em Desenvolvimento |
 | [**Armazém São Joaquim**](https://github.com/Lucasantunesribeiro/armazemsaojoaquim) | Website fullstack com reservas online, cardápio digital e blog cultural. | Next.js 14, React, TypeScript, Tailwind CSS, Supabase | ✅ Online |
 | [**Article Summarizer Agent**](https://github.com/Lucasantunesribeiro/article_summarizer_agent) | Extração e resumo automático de artigos web com NLP e API RESTful. | Python, Flask, Selenium, Cloudscraper, NLP | ✅ Funcional |
-
+| [**Sistema de Locadora de Carros 🚗**](https://github.com/Lucasantunesribeiro/locadora_de_carros) | Sistema completo de gestão de locadora com autenticação, CRUD de usuários, carros e aluguéis, controle de permissões e interface responsiva. | PHP 8.1+, SQLite 3, HTML5, CSS3, JavaScript| ✅ Funcional |
 ---
 
 ## 📊 Estatísticas do GitHub
