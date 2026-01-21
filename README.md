@@ -266,22 +266,6 @@
   </tr>
 </table>
 
-<details>
-  <summary><strong>✨ Ver mais projetos</strong></summary>
-
-- 📰 **Article Summarizer Agent** — Python/Flask/Selenium (Demo: https://article-summarizer-agent.onrender.com/)  
-  Repo: https://github.com/Lucasantunesribeiro/article_summarizer_agent
-
-- 🚗 **Locadora de Carros** — PHP/SQLite (Demo: https://locadora-de-carros.onrender.com/)  
-  Repo: https://github.com/Lucasantunesribeiro/locadora_de_carros
-
-- 🎮 **Logic Games Suite** — HTML/CSS/JS (Demo: https://sorteador-de-numeros-six-pi.vercel.app/)  
-  Repo: https://github.com/Lucasantunesribeiro/Numero-Secreto
-
-- ⚙️ **Sistema de Gestão Distribuído** — Java/Spring + Event Sourcing + RabbitMQ  
-  Repo: https://github.com/Lucasantunesribeiro/Sistema_de_Gestao_de_Pedidos_Distribu-do_com_Event_Sourcing
-
-</details>
 
 ---
 
