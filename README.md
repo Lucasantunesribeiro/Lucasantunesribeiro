@@ -1,118 +1,92 @@
-<p align="center">
-  <h1 align="center">👋 Olá, eu sou Lucas Antunes Ferreira</h1>
-  <p align="center">
-    <strong>Desenvolvedor Fullstack</strong> • <strong>C#/.NET</strong> • <strong>React/Next.js</strong> • <strong>Node.js</strong> • <strong>APIs REST</strong> • <strong>Cloud & DevOps</strong>
-  </p>
-  <p align="center">
+<div align="center">
+  <h1>👋 Olá, eu sou Lucas Antunes Ferreira</h1>
+  
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Desenvolvedor+Fullstack;C%23+%7C+.NET+%7C+React+%7C+Node.js;Clean+Architecture+%7C+DevOps" alt="Typing SVG" />
+  </a>
+
+  <p>
     Construo soluções robustas e escaláveis com foco em <strong>Clean Architecture</strong>, <strong>testes automatizados</strong> e <strong>deploy eficiente</strong>.
   </p>
-</p>
 
-<p align="center">
-  <a href="mailto:lucas.afvr@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-lucas.afvr%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/lucasantunesferreira">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Antunes%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.lucasafvr.com.br">
-    <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-lucasafvr.com.br-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://github.com/Lucasantunesribeiro">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Lucasantunesribeiro-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+  <p>
+    <a href="mailto:lucas.afvr@gmail.com">
+      <img src="https://img.shields.io/badge/Email-lucas.afvr%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/lucasantunesferreira">
+      <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Antunes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://www.lucasafvr.com.br">
+      <img src="https://img.shields.io/badge/Portfólio-Website-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+  </p>
+</div>
 
----
+<br />
 
 ## 🚀 Sobre mim
 
-Sou um Desenvolvedor Fullstack apaixonado por construir software **robusto**, **escalável** e **bem arquitetado**.
+Sou um Desenvolvedor Fullstack apaixonado por transformar desafios complexos em software **robusto** e **escalável**.
 
-- 💻 Experiência no ciclo completo: **concepção → implementação → testes → deploy**
-- 🧱 Práticas: **Clean Architecture, SOLID, DDD, CQRS, Event Sourcing**
-- ☁️ Cloud & DevOps: **AWS, Docker, CI/CD, observabilidade**
-- 🤝 Comunicação clara, organização e foco em qualidade e entrega
+* 💻 **Ciclo Completo:** Da concepção e arquitetura até o deploy e observabilidade.
+* 🧱 **Engenharia de Software:** Clean Architecture, SOLID, DDD, CQRS, Event Sourcing.
+* ☁️ **DevOps Culture:** AWS, Docker, CI/CD e monitoramento.
+* 🤝 **Soft Skills:** Comunicação clara, documentação e foco na qualidade da entrega.
 
 ---
 
-## 🧰 Stack principal
+## 🧰 Tech Stack
 
-<p>
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,nodejs,ts,postgres,aws,docker,linux,git,postman" />
+  </a>
+</div>
 
 <details>
-  <summary><strong>Ver habilidades completas</strong></summary>
+  <summary><strong>📚 Ver lista detalhada de habilidades</strong></summary>
 
-### 🖥️ Linguagens & Frameworks
-- **Backend:** C# (.NET/ASP.NET Core/EF Core), Node.js (Express), PHP (Laravel), Python, Java (Spring Boot)
-- **Frontend:** React, Next.js, Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend** | C# (.NET/ASP.NET Core/EF Core), Node.js, PHP (Laravel), Java (Spring Boot) |
+| **Frontend** | React, Next.js, Angular, TypeScript, Tailwind CSS |
+| **Dados** | PostgreSQL, SQL Server, MySQL, SQLite, MongoDB, Redis |
+| **DevOps** | AWS (EC2, S3, Lambda), Docker, Kubernetes, CI/CD, Terraform |
+| **Arquitetura** | Clean Architecture, SOLID, DDD, Event Sourcing, CQRS, APIs RESTful |
+| **Testes** | xUnit, Jest, PHPUnit, TDD/BDD |
 
-### 🗄️ Bancos de Dados
-SQL Server, PostgreSQL, MySQL, SQLite, MongoDB, Redis, Oracle
-
-### ☁️ Cloud & DevOps
-AWS (EC2, S3, Lambda, SQS), Azure • Docker • Kubernetes • CI/CD (GitHub Actions/Jenkins) • Terraform  
-Nginx • Prometheus • Grafana
-
-### 🧱 Arquitetura & Boas Práticas
-Clean Architecture • SOLID • DDD • EDA • Event Sourcing • CQRS • Design Patterns  
-APIs RESTful (Swagger/OpenAPI, JWT)
-
-### ✅ Qualidade & Testes
-Testes unitários e integração (xUnit, Jest, PHPUnit) • TDD/BDD • Code Review • Health Checks • Performance Tuning
-
-### 📋 Metodologias & Ferramentas
-Scrum • Kanban • Git/GitHub • Jira • Postman
 </details>
 
 ---
 
-## 💼 Projetos em destaque (com demos)
+## 💼 Projetos em Destaque
 
-> Clique em **Demo** para ver rodando e em **Repo** para acessar o código.
+> 💡 Clique nos botões para ver o projeto rodando (**Demo**) ou o código (**Repo**).
 
-| Projeto | Links | Descrição | Tecnologias |
-|---|---|---|---|
-| **Armazém São Joaquim 🏡☕** | [Repo](https://github.com/Lucasantunesribeiro/armazemsaojoaquim) • [Demo](https://armazemsaojoaquim.com.br/) | Sistema completo (restaurante/pousada/café/blog) com reservas, painel admin, multilíngue e UI responsiva. | Next.js 14, TS, Supabase, Tailwind, PostgreSQL, RLS, i18n |
-| **Emissão Automatizada de NF-e 📄⚡** | [Repo](https://github.com/Lucasantunesribeiro/emissao_nfe) • [Demo](https://d3065hze06690c.cloudfront.net/) | Emissão automatizada de NF-e com Clean Architecture, serviços em background e health checks. | .NET 9, C#, PostgreSQL, Docker, AWS, xUnit |
-| **SmartFinance 💰📊** | [Repo](https://github.com/Lucasantunesribeiro/smart_finance) • [Demo](http://smartfinance-prod-alb-1713518371.sa-east-1.elb.amazonaws.com/) | Gestão financeira com dashboard e relatórios com gráficos interativos. | Next.js, React, Node.js, Tailwind, JWT, PM2 |
-| **Article Summarizer Agent 📰🤖** | [Repo](https://github.com/Lucasantunesribeiro/article_summarizer_agent) • [Demo](https://article-summarizer-agent.onrender.com/) | Extração e sumarização de artigos (inclui bypass de WAF) com API REST. | Python, Flask, Selenium, NLP, Docker |
-| **CollabDocs 📑✨** | [Repo](https://github.com/Lucasantunesribeiro/Collabdocs) • [Demo](https://collabdocs-app.vercel.app/) | Documentos colaborativos em tempo real com infra serverless e OAuth. | Next.js 15, Cloudflare Workers, D1/KV, Tailwind |
-| **LinkGuardião 🔗🛡️** | [Repo](https://github.com/Lucasantunesribeiro/LinkGuardiao) • [Demo](https://linkguardiao.pages.dev/) | Encurtador de URLs com senha, expiração, métricas e dashboard. | ASP.NET Core 8, React, TS, Tailwind, Chart.js |
-| **Locadora de Carros 🚗** | [Repo](https://github.com/Lucasantunesribeiro/locadora_de_carros) • [Demo](https://locadora-de-carros.onrender.com/) | Gestão de locadora com autenticação, CRUDs e permissões. | PHP 8.1+, SQLite, JS, UI responsiva |
-| **Logic Games Suite 🎮** | [Repo](https://github.com/Lucasantunesribeiro/Numero-Secreto) • [Demo](https://sorteador-de-numeros-six-pi.vercel.app/) | Mini-jogos (sorteador/jogos lógicos) com UI moderna e responsiva. | HTML, CSS, JavaScript |
-| **Parallel Store 🛍️** | [Repo](https://github.com/Lucasantunesribeiro/parallel_store) • [Demo](https://parallelstore.netlify.app/) | E-commerce urbano criado com Next.js 15. | Next.js 15, React 18, Tailwind, TypeScript |
-| **Sistema de Gestão Distribuído ⚙️📦** | — [Repo](https://github.com/Lucasantunesribeiro/Sistema_de_Gestao_de_Pedidos_Distribu-do_com_Event_Sourcing)  | Microsserviços com Event Sourcing, CQRS e comunicação assíncrona via RabbitMQ. Inclui frontend React e observabilidade com health checks. | Java 17, Spring Boot, Event Sourcing, CQRS, RabbitMQ, PostgreSQL, React 18, Docker |
+| Projeto | Stack Principal | Links |
+| :--- | :--- | :---: |
+| **Armazém São Joaquim** <br> _Sistema completo para gestão de restaurante e pousada._ | `Next.js` `Supabase` `PostgreSQL` | [![Repo](https://img.shields.io/badge/Code-Repo-111827?style=flat&logo=github)](https://github.com/Lucasantunesribeiro/armazemsaojoaquim) [![Demo](https://img.shields.io/badge/Live-Demo-239120?style=flat&logo=vercel)](https://armazemsaojoaquim.com.br/) |
+| **Emissão de NF-e** <br> _Microsserviço de emissão fiscal automatizada._ | `.NET 9` `C#` `AWS` `Docker` | [![Repo](https://img.shields.io/badge/Code-Repo-111827?style=flat&logo=github)](https://github.com/Lucasantunesribeiro/emissao_nfe) [![Demo](https://img.shields.io/badge/Live-Demo-239120?style=flat&logo=amazon-aws)](https://d3065hze06690c.cloudfront.net/) |
+| **SmartFinance** <br> _Dashboard financeiro com gráficos interativos._ | `React` `Node.js` `Tailwind` | [![Repo](https://img.shields.io/badge/Code-Repo-111827?style=flat&logo=github)](https://github.com/Lucasantunesribeiro/smart_finance) [![Demo](https://img.shields.io/badge/Live-Demo-239120?style=flat&logo=google-chrome)](http://smartfinance-prod-alb-1713518371.sa-east-1.elb.amazonaws.com/) |
+| **CollabDocs** <br> _Edição de documentos em tempo real (Serverless)._ | `Next.js 15` `Cloudflare Workers` | [![Repo](https://img.shields.io/badge/Code-Repo-111827?style=flat&logo=github)](https://github.com/Lucasantunesribeiro/Collabdocs) [![Demo](https://img.shields.io/badge/Live-Demo-239120?style=flat&logo=vercel)](https://collabdocs-app.vercel.app/) |
+| **LinkGuardião** <br> _Encurtador de URLs seguro com métricas._ | `ASP.NET Core` `React` | [![Repo](https://img.shields.io/badge/Code-Repo-111827?style=flat&logo=github)](https://github.com/Lucasantunesribeiro/LinkGuardiao) [![Demo](https://img.shields.io/badge/Live-Demo-239120?style=flat&logo=google-chrome)](https://linkguardiao.pages.dev/) |
+| **Sistema Distribuído** <br> _Arquitetura complexa com Event Sourcing._ | `Java` `RabbitMQ` `CQRS` | [![Repo](https://img.shields.io/badge/Code-Repo-111827?style=flat&logo=github)](https://github.com/Lucasantunesribeiro/Sistema_de_Gestao_de_Pedidos_Distribu-do_com_Event_Sourcing) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&hide_title=true&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=6&theme=react&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&hide_title=true" />
+</div>
+
+---
+
+<div align="center">
+  <p>✨ Obrigado pela visita! <strong>Happy coding!</strong></p>
   
-
----
-
-## 📊 GitHub (stats)
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&hide_title=true&theme=radical" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=7&theme=radical&hide_title=true" />
-</p>
-
----
-
-## 🤝 Conecte-se comigo
-
-- 📧 **Email:** <a href="mailto:lucas.afvr@gmail.com">lucas.afvr@gmail.com</a>  
-- 💼 **LinkedIn:** https://linkedin.com/in/lucasantunesferreira  
-- 🌐 **Portfólio:** https://www.lucasafvr.com.br  
-- 💻 **GitHub:** https://github.com/Lucasantunesribeiro  
-
----
-
-✨ Obrigado por visitar meu perfil! **Happy coding!**
+  <a href="https://linkedin.com/in/lucasantunesferreira">
+    <img src="https://img.shields.io/badge/Conecte--se-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</div>
