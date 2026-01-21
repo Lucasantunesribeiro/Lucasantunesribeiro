@@ -96,7 +96,6 @@
         </a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3>📄 Emissão Automatizada de NF-e</h3>
       <p>Emissão fiscal automatizada com Clean Architecture, jobs e health checks.</p>
@@ -117,7 +116,6 @@
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>💰 SmartFinance</h3>
@@ -138,7 +136,6 @@
         </a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3>📰 Article Summarizer Agent</h3>
       <p>Agente de IA para extração e resumo de artigos (API REST + automação).</p>
@@ -158,7 +155,6 @@
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>📑 CollabDocs</h3>
@@ -178,7 +174,6 @@
         </a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3>🔗 LinkGuardião</h3>
       <p>Encurtador de URLs seguro com senha, expiração e métricas.</p>
@@ -198,7 +193,6 @@
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>🚗 Locadora de Carros</h3>
@@ -217,7 +211,6 @@
         </a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3>🎮 Logic Games Suite</h3>
       <p>Mini-jogos lógicos com UI moderna e responsiva.</p>
@@ -236,7 +229,6 @@
       </p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
       <h3>🛍️ Parallel Store</h3>
@@ -255,7 +247,6 @@
         </a>
       </p>
     </td>
-
     <td width="50%" valign="top">
       <h3>⚙️ Sistema de Gestão Distribuído</h3>
       <p>Microsserviços com Event Sourcing, CQRS e mensageria assíncrona.</p>
@@ -274,7 +265,6 @@
     </td>
   </tr>
 </table>
-
 
 <details>
   <summary><strong>✨ Ver mais projetos</strong></summary>
