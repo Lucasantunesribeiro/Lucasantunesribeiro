@@ -1,78 +1,113 @@
-# 👋 Olá, eu sou Lucas Antunes Ferreira
-
-**Desenvolvedor Fullstack | C# .NET | React | Node.js | APIs REST | Cloud & DevOps**
-
-Seja bem-vindo(a) ao meu universo de código!  
-Sou um Desenvolvedor Fullstack apaixonado por construir soluções robustas e escaláveis, com foco em **Clean Architecture**, **testes automatizados** e **implantações eficientes**.  
-
-Minha jornada na tecnologia é impulsionada pela busca constante por aprendizado e pela aplicação de **boas práticas** para entregar software de alta qualidade.  
-
-Com experiência no **ciclo de vida completo do software**, desde a concepção até o deploy em produção, me posiciono como um desenvolvedor **"Triple-Threat"**:  
-💻 **Fullstack sólido** (C#, .NET Core, React, Node.js)  
-☁️ **Especialização em Cloud, DevOps e Microserviços**  
-🤝 **Soft skills essenciais para o mercado brasileiro**  
-
----
-
-## 🚀 Minhas Habilidades
-
-### 🖥️ Linguagens & Frameworks
-- **Backend:** C# (.NET Core, ASP.NET Core, Entity Framework), Node.js (Express.js), PHP (Laravel), Python, Java (Spring Boot)
-- **Frontend:** React.js, Next.js, Angular, TypeScript, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
-
-### 🗄️ Bancos de Dados
-- SQL Server, PostgreSQL, MySQL, SQLite, MongoDB, Redis, Oracle
-
-### ☁️ Cloud & DevOps
-- AWS (EC2, S3, Lambda, SQS), Azure
-- Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins), Terraform
-- Nginx, Prometheus, Grafana
-
-### 🏗️ Arquitetura & Boas Práticas
-- Clean Architecture, SOLID, DDD, EDA, Event Sourcing, CQRS, Design Patterns
-- Microsserviços, APIs RESTful (Swagger/OpenAPI, JWT)
-
-### ✅ Qualidade & Testes
-- Testes Unitários (xUnit, Jest, PHPUnit), Testes de Integração
-- TDD, BDD, Clean Code, Code Review, Health Checks, Performance Tuning
-
-### 📋 Metodologias & Ferramentas
-- Scrum, Kanban
-- Git, GitHub, Jira, Postman
-
----
-
-## 💼 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias Chave | Status |
-|---------|-----------|-------------------|--------|
-| [**Armazém São Joaquim 🏡☕**](https://github.com/Lucasantunesribeiro/armazemsaojoaquim) | Sistema completo de restaurante com cardápio digital interativo, pousada, café e blog. Inclui gestão de reservas, painel administrativo e design responsivo multilíngue (PT/EN). | Next.js 14, TypeScript, Supabase, Tailwind CSS, PostgreSQL, Resend API, RLS, i18n | ✅ Online |
-| [**Article Summarizer Agent 📰🤖**](https://github.com/Lucasantunesribeiro/article_summarizer_agent) | Aplicação Python que extrai, processa e resume artigos de qualquer site, com bypass avançado de WAF, múltiplos formatos de saída e API RESTful completa. | Python, Flask, Selenium, NLP, WAF Bypass, REST API, Docker | ✅ Online |
-| [**CollabDocs 📑✨**](https://github.com/Lucasantunesribeiro/Collabdocs) | Plataforma de documentos colaborativos com autenticação OAuth e colaboração em tempo real, utilizando infraestrutura serverless. | Next.js 15, TypeScript, Cloudflare Workers, D1 Database, KV Storage, Tailwind CSS, OAuth | ✅ Online |
-| [**Emissão Automatizada de NF-e 📄⚡**](https://github.com/Lucasantunesribeiro/simulador_emissor) | Sistema enterprise para emissão automatizada de Nota Fiscal Eletrônica com .NET 9, Clean Architecture, serviços em background, health checks e deploy na AWS Lambda. | .NET 9, C#, Clean Architecture, PostgreSQL, Docker, AWS Lambda, xUnit | ✅ Online (API Docs) |
-| [**LinkGuardião 🔗🛡️**](https://github.com/Lucasantunesribeiro/LinkGuardiao) | Sistema de encurtamento de URLs com proteção por senha, expiração automática, estatísticas de cliques e dashboard administrativo. | ASP.NET Core 8, React, TypeScript, SQLite, EF Core, JWT Auth, Tailwind CSS, Chart.js | ✅ Funcional |
-| [**Sistema de Gestão Distribuído ⚙️📦**](https://github.com/Lucasantunesribeiro/Sistema_de_Gestao_de_Pedidos_Distribu-do_com_Event_Sourcing) | Microsserviços com Event Sourcing, CQRS e comunicação assíncrona via RabbitMQ. Inclui frontend React e observabilidade com health checks. | Java 17, Spring Boot, Event Sourcing, CQRS, RabbitMQ, PostgreSQL, React 18, Docker | ✅ Funcional |
-| [**Sistema de Locadora de Carros 🚗**](https://github.com/Lucasantunesribeiro/locadora_de_carros) | Sistema de gestão de locadora com autenticação, CRUD de usuários e carros, sistema de aluguéis, controle de permissões e UI responsiva. | PHP 8.1+, SQLite, HTML5, CSS3, JavaScript, shadcn/ui | ✅ Online |
-| [**SmartFinance 💰📊**](https://github.com/Lucasantunesribeiro/smart_finance) | Sistema financeiro enterprise com dashboard em tempo real, gestão de transações, orçamentos e relatórios avançados com gráficos interativos. | Next.js 13.5, React, TypeScript, Node.js, Tailwind CSS, JWT Auth, Chart.js, PM2 | ✅ Online |
-| [**Sorteador de Números 🎲**](https://github.com/Lucasantunesribeiro/Numero-Secreto) | Aplicação interativa com múltiplas funcionalidades: sorteador, jogo de adivinhação, par/ímpar e roleta. UI moderna com tema escuro. | HTML, CSS, JavaScript, Responsivo, Dark Theme | ✅ Online |
-| [**Super Burger 🍔🔥**](https://github.com/Lucasantunesribeiro/hamburgueria-website) | Website premium e responsivo para hamburgueria artesanal, com cardápio interativo, seção de equipe e contato. | HTML, CSS, JavaScript, Responsivo, Dark Theme, Mobile-First | ✅ Online |
-
----
-
-## 📊 Estatísticas do GitHub
+<p align="center">
+  <h1 align="center">👋 Olá, eu sou Lucas Antunes Ferreira</h1>
+  <p align="center">
+    <strong>Desenvolvedor Fullstack</strong> • <strong>C#/.NET</strong> • <strong>React/Next.js</strong> • <strong>Node.js</strong> • <strong>APIs REST</strong> • <strong>Cloud & DevOps</strong>
+  </p>
+  <p align="center">
+    Construo soluções robustas e escaláveis com foco em <strong>Clean Architecture</strong>, <strong>testes automatizados</strong> e <strong>deploy eficiente</strong>.
+  </p>
+</p>
 
 <p align="center">
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&theme=radical&hide_title=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=7&theme=radical&hide_title=true"/>
+  <a href="mailto:lucas.afvr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lucas.afvr%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/lucasantunesferreira"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Antunes%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.lucasafvr.com.br"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-lucasafvr.com.br-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/Lucasantunesribeiro"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Lucasantunesribeiro-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🚀 Sobre mim
 
-📧 **E-mail:** lucas.afvr@gmail.com  
-💼 **LinkedIn:** [linkedin.com/in/lucasantunesferreira](https://linkedin.com/in/lucasantunesferreira)  
-💻 **GitHub:** [github.com/Lucasantunesribeiro](https://github.com/Lucasantunesribeiro)  
+- 💻 Fullstack com experiência no **ciclo completo**: ideia → arquitetura → código → testes → deploy  
+- 🧱 Forte em **boas práticas**: Clean Architecture, SOLID, DDD, CQRS, Event Sourcing  
+- ☁️ Interesse e prática em **Cloud & DevOps**: AWS, Docker, CI/CD, observabilidade  
+- 🤝 Comunicação clara, organização e foco em entrega com qualidade
+
+---
+
+## 🧰 Stack principal
+
+<p>
+  <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827" />
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+</p>
+
+<details>
+  <summary><strong>Ver habilidades completas</strong></summary>
+
+### 🖥️ Linguagens & Frameworks
+- **Backend:** C# (.NET/ASP.NET Core/EF Core), Node.js (Express), PHP (Laravel), Python, Java (Spring Boot)
+- **Frontend:** React, Next.js, Angular, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+
+### 🗄️ Bancos de Dados
+SQL Server, PostgreSQL, MySQL, SQLite, MongoDB, Redis, Oracle
+
+### ☁️ Cloud & DevOps
+AWS (EC2, S3, Lambda, SQS), Azure • Docker • Kubernetes • CI/CD (GitHub Actions/Jenkins) • Terraform  
+Nginx • Prometheus • Grafana
+
+### 🧱 Arquitetura & Boas Práticas
+Clean Architecture • SOLID • DDD • EDA • Event Sourcing • CQRS • Design Patterns  
+APIs RESTful (Swagger/OpenAPI, JWT)
+
+### ✅ Qualidade & Testes
+Testes unitários e integração (xUnit, Jest, PHPUnit) • TDD/BDD • Code Review • Health Checks • Performance Tuning
+
+### 📋 Metodologias & Ferramentas
+Scrum • Kanban • Git/GitHub • Jira • Postman
+</details>
+
+---
+
+## 💼 Projetos em destaque (com demos)
+
+> **Dica:** clique em **Demo** para ver rodando e em **Repo** para o código.
+
+| Projeto | Links | O que é | Tecnologias |
+|---|---|---|---|
+| **Emissão Automatizada de NF-e 📄⚡** | [Repo](https://github.com/Lucasantunesribeiro/simulador_emissor) • [Demo](https://d3065hze06690c.cloudfront.net/) | Emissão automatizada de NF-e com Clean Architecture, background processing e saúde/observabilidade. | .NET 9, C#, PostgreSQL, Docker, AWS, xUnit |
+| **SmartFinance 💰📊** | [Repo](https://github.com/Lucasantunesribeiro/smart_finance) • [Demo](http://smartfinance-prod-alb-1713518371.sa-east-1.elb.amazonaws.com/) | Gestão financeira com dashboard e relatórios, UX moderna e foco em performance percebida. | Next.js, React, Node.js, Tailwind, JWT, AWS |
+| **Article Summarizer Agent 📰🤖** | [Repo](https://github.com/Lucasantunesribeiro/article_summarizer_agent) • [Demo](https://article-summarizer-agent.onrender.com/) | Extração e sumarização de artigos (incl. bypass de WAF) com API e UI web. | Python, Flask, Selenium, Docker, REST |
+| **CollabDocs 📑✨** | [Repo](https://github.com/Lucasantunesribeiro/Collabdocs) • [Demo](https://collabdocs-app.vercel.app/) | Documentos colaborativos com arquitetura serverless e autenticação OAuth. | Next.js 15, Cloudflare Workers, D1/KV, Tailwind |
+| **LinkGuardião 🔗🛡️** | [Repo](https://github.com/Lucasantunesribeiro/LinkGuardiao) • [Demo](https://linkguardiao.pages.dev/) | Encurtador de URLs com senha, expiração, métricas e dashboard admin. | ASP.NET Core, React, TS, Tailwind, Chart.js |
+| **Sistema de Locadora de Carros 🚗** | [Repo](https://github.com/Lucasantunesribeiro/locadora_de_carros) • [Demo](https://locadora-de-carros.onrender.com/) | Gestão de locadora com autenticação, CRUDs e permissões. | PHP 8.1+, SQLite, JS, UI responsiva |
+| **Logic Games Suite 🎮** | [Repo](https://github.com/Lucasantunesribeiro/Numero-Secreto) • [Demo](https://sorteador-de-numeros-six-pi.vercel.app/) | Mini-jogos (sorteador/jogos lógicos) com UI moderna e responsiva. | HTML, CSS, JavaScript |
+| **Parallel Store 🛍️** | [Repo](https://github.com/Lucasantunesribeiro/parallel_store) • [Demo](https://parallelstore.netlify.app/) | E-commerce urbano com Next.js 15 e Tailwind. Consulte `PROMPT_CODEX.md` no repositório para o manifesto completo. | Next.js 15, React 18, Tailwind, TypeScript |
+
+---
+
+## 📌 Outros projetos relevantes
+
+- **Armazém São Joaquim 🏡☕** — [Repo](https://github.com/Lucasantunesribeiro/armazemsaojoaquim)  
+  Sistema completo (restaurante/pousada/café/blog) com multilíngue, admin, reservas e design responsivo.
+- **Sistema de Gestão Distribuído ⚙️📦** — [Repo](https://github.com/Lucasantunesribeiro/Sistema_de_Gestao_de_Pedidos_Distribu-do_com_Event_Sourcing)  
+  Microsserviços com Event Sourcing/CQRS e comunicação assíncrona via RabbitMQ.
+
+---
+
+## 📊 GitHub (stats)
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&hide_title=true&theme=radical" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=7&theme=radical&hide_title=true" />
+</p>
+
+---
+
+## 🤝 Vamos conversar?
+
+- 📧 **Email:** <a href="mailto:lucas.afvr@gmail.com">lucas.afvr@gmail.com</a>  
+- 💼 **LinkedIn:** https://linkedin.com/in/lucasantunesferreira  
+- 🌐 **Portfólio:** https://www.lucasafvr.com.br  
+- 💻 **GitHub:** https://github.com/Lucasantunesribeiro  
 
 ---
 
