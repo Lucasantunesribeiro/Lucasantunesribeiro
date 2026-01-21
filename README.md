@@ -9,20 +9,30 @@
 </p>
 
 <p align="center">
-  <a href="mailto:lucas.afvr@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-lucas.afvr%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/lucasantunesferreira"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Antunes%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.lucasafvr.com.br"><img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-lucasafvr.com.br-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://github.com/Lucasantunesribeiro"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Lucasantunesribeiro-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:lucas.afvr@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-lucas.afvr%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lucasantunesferreira">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Lucas%20Antunes%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.lucasafvr.com.br">
+    <img alt="Portfólio" src="https://img.shields.io/badge/Portf%C3%B3lio-lucasafvr.com.br-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/Lucasantunesribeiro">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-Lucasantunesribeiro-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- 💻 Fullstack com experiência no **ciclo completo**: ideia → arquitetura → código → testes → deploy  
-- 🧱 Forte em **boas práticas**: Clean Architecture, SOLID, DDD, CQRS, Event Sourcing  
-- ☁️ Interesse e prática em **Cloud & DevOps**: AWS, Docker, CI/CD, observabilidade  
-- 🤝 Comunicação clara, organização e foco em entrega com qualidade
+Sou um Desenvolvedor Fullstack apaixonado por construir software **robusto**, **escalável** e **bem arquitetado**.
+
+- 💻 Experiência no ciclo completo: **concepção → implementação → testes → deploy**
+- 🧱 Práticas: **Clean Architecture, SOLID, DDD, CQRS, Event Sourcing**
+- ☁️ Cloud & DevOps: **AWS, Docker, CI/CD, observabilidade**
+- 🤝 Comunicação clara, organização e foco em qualidade e entrega
 
 ---
 
@@ -69,27 +79,21 @@ Scrum • Kanban • Git/GitHub • Jira • Postman
 
 ## 💼 Projetos em destaque (com demos)
 
-> **Dica:** clique em **Demo** para ver rodando e em **Repo** para o código.
+> Clique em **Demo** para ver rodando e em **Repo** para acessar o código.
 
-| Projeto | Links | O que é | Tecnologias |
+| Projeto | Links | Descrição | Tecnologias |
 |---|---|---|---|
-| **Emissão Automatizada de NF-e 📄⚡** | [Repo](https://github.com/Lucasantunesribeiro/simulador_emissor) • [Demo](https://d3065hze06690c.cloudfront.net/) | Emissão automatizada de NF-e com Clean Architecture, background processing e saúde/observabilidade. | .NET 9, C#, PostgreSQL, Docker, AWS, xUnit |
-| **SmartFinance 💰📊** | [Repo](https://github.com/Lucasantunesribeiro/smart_finance) • [Demo](http://smartfinance-prod-alb-1713518371.sa-east-1.elb.amazonaws.com/) | Gestão financeira com dashboard e relatórios, UX moderna e foco em performance percebida. | Next.js, React, Node.js, Tailwind, JWT, AWS |
-| **Article Summarizer Agent 📰🤖** | [Repo](https://github.com/Lucasantunesribeiro/article_summarizer_agent) • [Demo](https://article-summarizer-agent.onrender.com/) | Extração e sumarização de artigos (incl. bypass de WAF) com API e UI web. | Python, Flask, Selenium, Docker, REST |
-| **CollabDocs 📑✨** | [Repo](https://github.com/Lucasantunesribeiro/Collabdocs) • [Demo](https://collabdocs-app.vercel.app/) | Documentos colaborativos com arquitetura serverless e autenticação OAuth. | Next.js 15, Cloudflare Workers, D1/KV, Tailwind |
-| **LinkGuardião 🔗🛡️** | [Repo](https://github.com/Lucasantunesribeiro/LinkGuardiao) • [Demo](https://linkguardiao.pages.dev/) | Encurtador de URLs com senha, expiração, métricas e dashboard admin. | ASP.NET Core, React, TS, Tailwind, Chart.js |
-| **Sistema de Locadora de Carros 🚗** | [Repo](https://github.com/Lucasantunesribeiro/locadora_de_carros) • [Demo](https://locadora-de-carros.onrender.com/) | Gestão de locadora com autenticação, CRUDs e permissões. | PHP 8.1+, SQLite, JS, UI responsiva |
+| **Armazém São Joaquim 🏡☕** | [Repo](https://github.com/Lucasantunesribeiro/armazemsaojoaquim) • [Demo](https://armazemsaojoaquim.com.br/) | Sistema completo (restaurante/pousada/café/blog) com reservas, painel admin, multilíngue e UI responsiva. | Next.js 14, TS, Supabase, Tailwind, PostgreSQL, RLS, i18n |
+| **Emissão Automatizada de NF-e 📄⚡** | [Repo](https://github.com/Lucasantunesribeiro/simulador_emissor) • [Demo](https://d3065hze06690c.cloudfront.net/) | Emissão automatizada de NF-e com Clean Architecture, serviços em background e health checks. | .NET 9, C#, PostgreSQL, Docker, AWS, xUnit |
+| **SmartFinance 💰📊** | [Repo](https://github.com/Lucasantunesribeiro/smart_finance) • [Demo](http://smartfinance-prod-alb-1713518371.sa-east-1.elb.amazonaws.com/) | Gestão financeira com dashboard e relatórios com gráficos interativos. | Next.js, React, Node.js, Tailwind, JWT, PM2 |
+| **Article Summarizer Agent 📰🤖** | [Repo](https://github.com/Lucasantunesribeiro/article_summarizer_agent) • [Demo](https://article-summarizer-agent.onrender.com/) | Extração e sumarização de artigos (inclui bypass de WAF) com API REST. | Python, Flask, Selenium, NLP, Docker |
+| **CollabDocs 📑✨** | [Repo](https://github.com/Lucasantunesribeiro/Collabdocs) • [Demo](https://collabdocs-app.vercel.app/) | Documentos colaborativos em tempo real com infra serverless e OAuth. | Next.js 15, Cloudflare Workers, D1/KV, Tailwind |
+| **LinkGuardião 🔗🛡️** | [Repo](https://github.com/Lucasantunesribeiro/LinkGuardiao) • [Demo](https://linkguardiao.pages.dev/) | Encurtador de URLs com senha, expiração, métricas e dashboard. | ASP.NET Core 8, React, TS, Tailwind, Chart.js |
+| **Locadora de Carros 🚗** | [Repo](https://github.com/Lucasantunesribeiro/locadora_de_carros) • [Demo](https://locadora-de-carros.onrender.com/) | Gestão de locadora com autenticação, CRUDs e permissões. | PHP 8.1+, SQLite, JS, UI responsiva |
 | **Logic Games Suite 🎮** | [Repo](https://github.com/Lucasantunesribeiro/Numero-Secreto) • [Demo](https://sorteador-de-numeros-six-pi.vercel.app/) | Mini-jogos (sorteador/jogos lógicos) com UI moderna e responsiva. | HTML, CSS, JavaScript |
-| **Parallel Store 🛍️** | [Repo](https://github.com/Lucasantunesribeiro/parallel_store) • [Demo](https://parallelstore.netlify.app/) | E-commerce urbano com Next.js 15 e Tailwind. Consulte `PROMPT_CODEX.md` no repositório para o manifesto completo. | Next.js 15, React 18, Tailwind, TypeScript |
-
----
-
-## 📌 Outros projetos relevantes
-
-- **Armazém São Joaquim 🏡☕** — [Repo](https://github.com/Lucasantunesribeiro/armazemsaojoaquim)  
-  Sistema completo (restaurante/pousada/café/blog) com multilíngue, admin, reservas e design responsivo.
-- **Sistema de Gestão Distribuído ⚙️📦** — [Repo](https://github.com/Lucasantunesribeiro/Sistema_de_Gestao_de_Pedidos_Distribu-do_com_Event_Sourcing)  
-  Microsserviços com Event Sourcing/CQRS e comunicação assíncrona via RabbitMQ.
+| **Parallel Store 🛍️** | [Repo](https://github.com/Lucasantunesribeiro/parallel_store) • [Demo](https://parallelstore.netlify.app/) | E-commerce urbano criado com Next.js 15. | Next.js 15, React 18, Tailwind, TypeScript |
+| **Sistema de Gestão Distribuído ⚙️📦** | — [Repo](https://github.com/Lucasantunesribeiro/Sistema_de_Gestao_de_Pedidos_Distribu-do_com_Event_Sourcing)  | Microsserviços com Event Sourcing, CQRS e comunicação assíncrona via RabbitMQ. Inclui frontend React e observabilidade com health checks. | Java 17, Spring Boot, Event Sourcing, CQRS, RabbitMQ, PostgreSQL, React 18, Docker |
+  
 
 ---
 
@@ -102,7 +106,7 @@ Scrum • Kanban • Git/GitHub • Jira • Postman
 
 ---
 
-## 🤝 Vamos conversar?
+## 🤝 Conecte-se comigo
 
 - 📧 **Email:** <a href="mailto:lucas.afvr@gmail.com">lucas.afvr@gmail.com</a>  
 - 💼 **LinkedIn:** https://linkedin.com/in/lucasantunesferreira  
