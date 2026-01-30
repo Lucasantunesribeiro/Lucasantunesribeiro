@@ -16,8 +16,8 @@
   </p>
 
   <p>
-    <a href="https://lucasafvr.com">
-      <img src="https://img.shields.io/badge/Portfólio-lucasafvr.com-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+    <a href="https://www.lucasafvr.com.br/">
+      <img src="https://img.shields.io/badge/Portfólio-lucasafvr.com.br-111827?style=for-the-badge&logo=vercel&logoColor=white" />
     </a>
     <a href="https://www.linkedin.com/in/lucasantunesferreira/">
       <img src="https://img.shields.io/badge/LinkedIn-Lucas%20Antunes%20Ferreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -291,7 +291,7 @@
 ## 🤝 Vamos conversar?
 
 <div align="center">
-  <a href="https://lucasafvr.com">
+  <a href="https://www.lucasafvr.com.br/">
     <img src="https://img.shields.io/badge/Ver%20Portfólio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/lucasantunesferreira/">
