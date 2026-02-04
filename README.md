@@ -110,7 +110,7 @@
         <a href="https://github.com/Lucasantunesribeiro/emissao_nfe">
           <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="https://d3065hze06690c.cloudfront.net/">
+        <a href="https://d19fn3hv30xsoq.cloudfront.net/">
           <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=amazonaws&logoColor=white" />
         </a>
       </p>
@@ -131,7 +131,7 @@
         <a href="https://github.com/Lucasantunesribeiro/smart_finance">
           <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="http://smartfinance-prod-alb-1713518371.sa-east-1.elb.amazonaws.com/">
+        <a href="http://98.84.92.190/login">
           <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </p>
