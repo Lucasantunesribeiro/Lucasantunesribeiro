@@ -264,6 +264,43 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📩 EmailTriageAI</h3>
+      <p>Sistema inteligente de triagem de emails corporativos com IA (Gemini) e NLP: classifica, resume e gera respostas automáticas.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini%20AI-111827?style=flat&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-111827?style=flat" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/EmailTriageAI">
+          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="http://100.48.50.86/">
+          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧩 Kogui Pokédx</h3>
+      <p>Desafio técnico Fullstack com Django 5 e Angular 17: PokéAPI, autenticação JWT e painel administrativo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Angular%2017-DD0031?style=flat&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/Django%205.0-092E20?style=flat&logo=django&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/JWT-111827?style=flat&logo=jsonwebtokens&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/Kogui_pokedex">
+          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 
