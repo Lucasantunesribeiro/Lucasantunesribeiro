@@ -319,9 +319,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&hide_title=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=8&theme=transparent&title_color=58A6FF&text_color=C9D1D9" />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&hide_title=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true&include_all_commits=true&count_private=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=8&theme=transparent&title_color=58A6FF&text_color=C9D1D9&hide_border=true&hide=html,css"
+    alt="Top Languages"
+  />
 </div>
+
 
 ---
 
