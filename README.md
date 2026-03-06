@@ -220,7 +220,7 @@
         <img src="https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript&logoColor=F7DF1E" />
       </p>
       <p>
-        <a href="https://github.com/Lucasantunesribeiro/Numero-Secreto">
+        <a href="https://github.com/Lucasantunesribeiro/Sorteador-de-numeros">
           <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
         </a>
         <a href="https://sorteador-de-numeros-six-pi.vercel.app/">
