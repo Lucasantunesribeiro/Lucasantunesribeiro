@@ -131,7 +131,7 @@
         <a href="https://github.com/Lucasantunesribeiro/smart_finance">
           <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
         </a>
-        <a href="http://98.84.92.190/login">
+        <a href="http://3.223.37.57/login">
           <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
         </a>
       </p>
