@@ -338,6 +338,26 @@
       </p>
     </td>
   </tr> 
+  <tr>
+  <td width="50%" valign="top">
+  <h3>🏭 ERP — Order Management</h3>
+  <p>Módulo ERP de gestão de pedidos com arquitetura Modular Monolith, DDD, Celery jobs, Redis e cobertura de testes >97%.</p>
+
+  <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%205-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  </p>
+
+  <p>
+<a href="https://github.com/Lucasantunesribeiro/sistema_erp_modulo_de_gestao_de_pedidos">
+<img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+</p>
+</td>
+</tr>
 </table>
 
 
