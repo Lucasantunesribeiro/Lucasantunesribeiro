@@ -261,6 +261,9 @@
         <a href="https://github.com/Lucasantunesribeiro/Sistema_de_Gestao_de_Pedidos_Distribu-do_com_Event_Sourcing">
           <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
         </a>
+         <a href="http://98.92.208.98/dashboard">
+          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+        </a> 
       </p>
     </td>
   </tr>
