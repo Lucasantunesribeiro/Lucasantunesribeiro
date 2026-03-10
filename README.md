@@ -301,6 +301,43 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏢 TenantCore — Multi-Tenant SaaS Platform</h3>
+      <p>Plataforma SaaS B2B multi-tenant com isolamento de tenants, RBAC, planos, observabilidade e jobs em background.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/tenant_core">
+          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://purple-dune-018763b0f.4.azurestaticapps.net">
+          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💳 Billing Ledger — Event-Driven Payments</h3>
+      <p>Sistema de cobrança e conciliação com arquitetura DDD, SAGA de pagamentos e mensageria real na AWS.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS%20SNS%2FSQS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/billing_ledger">
+          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr> 
 </table>
 
 
