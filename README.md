@@ -79,22 +79,41 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏡 Armazém São Joaquim</h3>
-      <p>Sistema completo com reservas, painel admin, multilíngue e UI responsiva.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=111827" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/armazemsaojoaquim">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://armazemsaojoaquim.com.br/">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
-        </a>
-      </p>
+      <td width="50%" valign="top">
+  <h3>🏡 Armazém São Joaquim — Plataforma Digital & Backoffice</h3>
+  <p>
+    Plataforma fullstack desenvolvida para um negócio real, unificando
+    <strong>site institucional</strong>, <strong>cardápio online</strong>,
+    <strong>blog</strong>, <strong>área da pousada</strong>,
+    <strong>catálogo do café</strong>, <strong>galeria</strong> e
+    <strong>painel administrativo</strong> em uma única aplicação.
+  </p>
+  <p>
+    O projeto foi construído com <strong>Next.js + TypeScript</strong> em arquitetura
+    serverless, usando <strong>Supabase</strong> para autenticação, PostgreSQL,
+    controle de acesso e persistência dos módulos operacionais. Além da experiência pública,
+    a aplicação inclui fluxo de <strong>reservas</strong>, gestão de conteúdo e estrutura
+    preparada para operação contínua, com <strong>migrations</strong>,
+    <strong>RLS</strong>, <strong>health checks</strong>, analytics e capacidades de
+    <strong>PWA</strong>.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=111827" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/armazemsaojoaquim">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://armazemsaojoaquim.com.br/">
+      <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+  </p>
+</td>
     </td>
     <td width="50%" valign="top">
       <h3>📄 Emissão Automatizada de NF-e</h3>
