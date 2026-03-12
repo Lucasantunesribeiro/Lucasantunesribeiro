@@ -247,21 +247,39 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎮 Logic Games Suite</h3>
-      <p>Mini-jogos lógicos com UI moderna e responsiva.</p>
-      <p>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript&logoColor=F7DF1E" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/Sorteador-de-numeros">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://sorteador-de-numeros-six-pi.vercel.app/">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
+      <h3>🧩 Logic Games Suite — Interactive Puzzle Platform</h3>
+  <p>
+    Plataforma web interativa de <strong>jogos lógicos e treino cognitivo</strong>,
+    reunindo múltiplos minigames em uma experiência única no navegador, com
+    <strong>estatísticas locais</strong>, <strong>conquistas</strong>,
+    <strong>persistência de progresso</strong> e interface responsiva.
+  </p>
+  <p>
+    O principal diferencial técnico do projeto está na implementação de
+    <strong>regras algorítmicas reais</strong> em jogos como
+    <strong>Sudoku</strong>, <strong>2048</strong>,
+    <strong>Lights Out</strong> e <strong>Mastermind</strong>, com separação entre
+    lógica de jogo e camada de interface em boa parte dos módulos. A aplicação foi
+    organizada com <strong>JavaScript ES Modules</strong>, serviços compartilhados,
+    armazenamento em <strong>localStorage</strong> e base inicial de
+    <strong>PWA</strong> com manifest e service worker.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=111827" />
+    <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat" />
+    <img src="https://img.shields.io/badge/LocalStorage-111827?style=flat" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/Sorteador-de-numeros">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://sorteador-de-numeros-six-pi.vercel.app/">
+      <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
     </td>
   </tr>
   <tr>
