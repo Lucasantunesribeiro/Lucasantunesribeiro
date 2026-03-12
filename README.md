@@ -79,7 +79,6 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <td width="50%" valign="top">
   <h3>🏡 Armazém São Joaquim — Plataforma Digital & Backoffice</h3>
   <p>
     Plataforma fullstack desenvolvida para um negócio real, unificando
