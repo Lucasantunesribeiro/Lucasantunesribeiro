@@ -137,22 +137,39 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>📰 Article Summarizer Agent</h3>
-      <p>Agente de IA para extração e resumo de artigos (API REST + automação).</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-111827?style=flat&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/article_summarizer_agent">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://article-summarizer-agent.onrender.com/">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=render&logoColor=white" />
-        </a>
-      </p>
+      <h3>🧠 Article Intelligence Platform</h3>
+  <p>
+    Plataforma backend para <strong>extração, processamento e sumarização assíncrona de artigos web</strong>,
+    combinando scraping robusto, NLP e IA generativa. O sistema recebe uma URL, executa
+    coleta segura de conteúdo, processa o texto e gera resumos por <strong>TF-IDF</strong> ou
+    <strong>Google Gemini</strong>, com histórico persistido, downloads em múltiplos formatos e
+    acompanhamento do processamento via API.
+  </p>
+  <p>
+    Estruturado como um <strong>monólito modular</strong> com separação entre apresentação,
+    aplicação, domínio e infraestrutura, o projeto demonstra preocupações reais de engenharia:
+    <strong>autenticação administrativa</strong>, <strong>RBAC</strong>, <strong>auditoria</strong>,
+    <strong>cache</strong>, <strong>jobs assíncronos com Celery/Redis</strong>,
+    <strong>migrations</strong>, <strong>testes automatizados</strong>,
+    <strong>health checks</strong> e <strong>observabilidade</strong>.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flask-111827?style=flat&logo=flask&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gemini_AI-111827?style=flat&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/article_summarizer_agent">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://article-summarizer-agent.onrender.com/">
+      <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=render&logoColor=white" />
+    </a>
+  </p>
     </td>
   </tr>
   <tr>
