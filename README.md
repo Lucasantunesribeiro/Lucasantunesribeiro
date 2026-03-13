@@ -115,23 +115,44 @@
 </td>
     </td>
     <td width="50%" valign="top">
-      <h3>📄 Emissão Automatizada de NF-e</h3>
-      <p>Emissão fiscal automatizada com Clean Architecture, jobs e health checks.</p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/emissao_nfe">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://d19fn3hv30xsoq.cloudfront.net/">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=amazonaws&logoColor=white" />
-        </a>
-      </p>
+      <h3>📄 Sistema de Emissão de NF-e e Controle de Estoque</h3>
+  <p>
+    Sistema distribuído <strong>serverless</strong> inspirado no domínio de emissão de NF-e,
+    projetado para orquestrar fluxos de <strong>faturamento</strong>,
+    <strong>reserva de estoque</strong> e <strong>geração assíncrona de PDF</strong>.
+    A aplicação combina operações síncronas e orientadas a eventos, permitindo cadastrar produtos,
+    montar notas, fechar pedidos e acompanhar o processamento de documentos em uma arquitetura
+    próxima de cenários enterprise em cloud.
+  </p>
+  <p>
+    O principal diferencial técnico está na adoção de uma arquitetura
+    <strong>event-driven</strong> com <strong>AWS Lambda</strong>,
+    <strong>API Gateway</strong>, <strong>Cognito</strong>,
+    <strong>EventBridge</strong>, <strong>SQS + DLQ</strong> e
+    <strong>DynamoDB</strong>, além de práticas como
+    <strong>outbox pattern</strong>, <strong>idempotência</strong>,
+    <strong>CI/CD</strong>, <strong>observabilidade</strong> e
+    <strong>infraestrutura como código com CDK</strong>. É um projeto voltado a demonstrar
+    engenharia de software distribuída e cloud-native, não conformidade fiscal oficial.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/CDK-111827?style=flat&logo=amazonaws&logoColor=white" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/emissao_nfe">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://d19fn3hv30xsoq.cloudfront.net/">
+      <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    </a>
+  </p>
     </td>
   </tr>
   <tr>
