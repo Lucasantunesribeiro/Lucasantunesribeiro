@@ -434,23 +434,44 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📩 EmailTriageAI</h3>
-      <p>Sistema inteligente de triagem de emails corporativos com IA (Gemini) e NLP: classifica, resume e gera respostas automáticas.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Gemini%20AI-111827?style=flat&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/NLP-111827?style=flat" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/EmailTriageAI">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="http://100.48.50.86/">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
-        </a>
-      </p>
+      <h3>📩 Sistema Inteligente de Triagem de Emails Corporativos</h3>
+  <p>
+    Aplicação web para <strong>análise e classificação automática de emails corporativos</strong>,
+    desenvolvida para reduzir ruído operacional em caixas de entrada e apoiar fluxos de
+    backoffice, atendimento interno e operação administrativa. O sistema recebe texto colado
+    ou arquivo <strong>.txt/.pdf</strong>, extrai o conteúdo, processa o texto em português,
+    classifica a mensagem e gera <strong>resumo, tags e resposta sugerida</strong>.
+  </p>
+  <p>
+    O projeto foi construído como um <strong>monólito em camadas leves com FastAPI</strong>,
+    organizado em rotas, serviços, cliente externo, schemas e segurança. Entre os principais
+    diferenciais estão <strong>integração com Google Gemini</strong>,
+    <strong>baseline local com TF-IDF + Logistic Regression</strong>,
+    <strong>validação forte com Pydantic</strong>,
+    <strong>CSRF</strong>, <strong>rate limiting</strong>,
+    <strong>proteção de upload</strong>, <strong>CSP</strong>,
+    <strong>logs básicos</strong> e <strong>testes automatizados</strong>.
+    É um projeto forte para demonstrar <strong>IA aplicada a operação</strong>,
+    <strong>backend web</strong> e <strong>segurança</strong> em um produto enxuto. :contentReference[oaicite:1]{index=1}
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+    <img src="https://img.shields.io/badge/Pydantic-111827?style=flat" />
+    <img src="https://img.shields.io/badge/Google_Gemini-111827?style=flat&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/NLP-111827?style=flat" />
+    <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
+    <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat&logo=jinja&logoColor=white" />
+    <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=111827" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/EmailTriageAI">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="http://100.48.50.86/">
+      <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+  </p>
     </td>
     <td width="50%" valign="top">
       <h3>🧩 Sistema Fullstack de Catálogo e Coleção de Pokémons</h3>
