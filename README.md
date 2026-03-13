@@ -193,29 +193,32 @@
   </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 Article Intelligence Platform</h3>
+      <h3>🧠 Sistema de Extração e Sumarização de Artigos com IA</h3>
   <p>
-    Plataforma backend para <strong>extração, processamento e sumarização assíncrona de artigos web</strong>,
-    combinando scraping robusto, NLP e IA generativa. O sistema recebe uma URL, executa
-    coleta segura de conteúdo, processa o texto e gera resumos por <strong>TF-IDF</strong> ou
-    <strong>Google Gemini</strong>, com histórico persistido, downloads em múltiplos formatos e
-    acompanhamento do processamento via API.
+    Plataforma web para <strong>extração, processamento e sumarização assíncrona de artigos públicos</strong>,
+    combinando scraping seguro, NLP e IA generativa. O sistema recebe uma URL, processa o conteúdo,
+    gera resumos por <strong>TF-IDF</strong> ou <strong>Google Gemini</strong>, persiste o histórico
+    e disponibiliza consulta assíncrona por tarefa, downloads de artefatos e painel administrativo.
   </p>
   <p>
-    Estruturado como um <strong>monólito modular</strong> com separação entre apresentação,
+    Desenvolvido como um <strong>monólito modular</strong> com separação entre apresentação,
     aplicação, domínio e infraestrutura, o projeto demonstra preocupações reais de engenharia:
-    <strong>autenticação administrativa</strong>, <strong>RBAC</strong>, <strong>auditoria</strong>,
-    <strong>cache</strong>, <strong>jobs assíncronos com Celery/Redis</strong>,
-    <strong>migrations</strong>, <strong>testes automatizados</strong>,
-    <strong>health checks</strong> e <strong>observabilidade</strong>.
+    <strong>API REST</strong>, <strong>frontend em React + TypeScript</strong>,
+    <strong>autenticação JWT com RBAC</strong>, <strong>cache com Redis</strong>,
+    <strong>processamento assíncrono com Celery + RabbitMQ</strong>,
+    <strong>Outbox Pattern</strong>, <strong>idempotência</strong>,
+    <strong>DLQ</strong>, <strong>migrations</strong>,
+    <strong>testes automatizados</strong>, <strong>health checks</strong> e
+    <strong>observabilidade com Prometheus/Grafana</strong>.
   </p>
   <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Flask-111827?style=flat&logo=flask&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-    <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
-    <img src="https://img.shields.io/badge/Gemini_AI-111827?style=flat&logo=google&logoColor=white" />
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
   </p>
   <p>
