@@ -377,21 +377,41 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛍️ Parallel Store</h3>
-      <p>E-commerce moderno com foco em conversão e UX.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/parallel_store">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://parallelstore.netlify.app/">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=netlify&logoColor=white" />
-        </a>
-      </p>
+      <h3>🛍️ E-commerce Fullstack com Checkout e Painel de Pedidos</h3>
+  <p>
+    Aplicação fullstack de <strong>loja virtual de moda urbana</strong>, desenvolvida para cobrir
+    o fluxo completo de compra online: <strong>catálogo de produtos</strong>,
+    <strong>páginas por categoria</strong>, <strong>autenticação de usuários</strong>,
+    <strong>favoritos</strong>, <strong>carrinho persistente</strong>,
+    <strong>checkout com Stripe</strong>, <strong>área da conta</strong> e
+    <strong>gestão básica de pedidos</strong>.
+  </p>
+  <p>
+    O projeto foi construído com <strong>Next.js 15 + TypeScript</strong>, usando
+    <strong>Supabase</strong> para autenticação e persistência relacional,
+    <strong>Stripe</strong> para pagamentos, <strong>Resend</strong> para e-mails transacionais
+    e <strong>Zustand</strong> para estado global do cliente. É um projeto forte para demonstrar
+    construção de produto digital com integrações reais, SSR/App Router, experiência de compra
+    e organização de uma aplicação moderna orientada a negócio. :contentReference[oaicite:1]{index=1}
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=111827" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat&logo=stripe&logoColor=white" />
+    <img src="https://img.shields.io/badge/Zustand-111827?style=flat" />
+    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/parallel_store">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://parallelstore.netlify.app/">
+      <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=netlify&logoColor=white" />
+    </a>
+  </p>
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Sistema de Gestão de Pedidos com Arquitetura Modular</h3>
