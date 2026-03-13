@@ -415,23 +415,41 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🏢 TenantCore — Multi-Tenant SaaS Platform</h3>
-      <p>Plataforma SaaS B2B multi-tenant com isolamento de tenants, RBAC, planos, observabilidade e jobs em background.</p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/tenant_core">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://purple-dune-018763b0f.4.azurestaticapps.net">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-        </a>
-      </p>
+      <h3>🏢 Sistema de Gestão Multiempresa (SaaS)</h3>
+  <p>
+    Sistema fullstack B2B desenvolvido para operar um <strong>SaaS multi-tenant</strong>,
+    permitindo que múltiplas empresas utilizem a mesma aplicação com
+    <strong>isolamento real de dados por tenant</strong>, controle de usuários,
+    permissões, clientes, projetos, tarefas, plano de assinatura e auditoria.
+  </p>
+  <p>
+    O projeto foi construído com <strong>.NET 9 + React</strong> em uma arquitetura de
+    <strong>monólito modular</strong>, organizada em camadas de API, aplicação, domínio e
+    infraestrutura. Entre os principais diferenciais estão
+    <strong>autenticação JWT com refresh token rotativo</strong>,
+    <strong>RBAC</strong>, <strong>EF Core + SQL Server</strong>,
+    <strong>cache com Redis</strong>, <strong>jobs recorrentes com Quartz</strong>,
+    <strong>OpenTelemetry</strong>, <strong>health checks</strong>,
+    <strong>Docker</strong> e <strong>pipeline de CI/CD</strong>.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/OpenTelemetry-111827?style=flat" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/tenant_core">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://purple-dune-018763b0f.4.azurestaticapps.net">
+      <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    </a>
+  </p>
     </td>
     <td width="50%" valign="top">
       <h3>💳 Billing Ledger — Event-Driven Payments</h3>
