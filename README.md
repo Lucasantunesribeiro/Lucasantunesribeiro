@@ -136,23 +136,40 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>💰 SmartFinance</h3>
-      <p>Gestão financeira com dashboard e relatórios com gráficos interativos.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=111827" />
-        <img src="https://img.shields.io/badge/JWT-111827?style=flat&logo=jsonwebtokens&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/smart_finance">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="http://3.223.37.57/login">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
-        </a>
-      </p>
+      <h3>💳 SmartFinance — Financial Management Platform</h3>
+  <p>
+    Plataforma fullstack de <strong>gestão financeira pessoal</strong> desenvolvida com
+    <strong>.NET 8</strong> no backend e <strong>Next.js</strong> no frontend, cobrindo
+    autenticação, contas, transações, categorias, orçamentos e analytics em uma aplicação
+    única, com segregação de dados por usuário e visão consolidada da vida financeira.
+  </p>
+  <p>
+    O projeto vai além de um CRUD tradicional ao adotar uma arquitetura em camadas no estilo
+    <strong>Clean Architecture</strong>, com persistência relacional, autenticação segura via
+    <strong>JWT + cookies HttpOnly</strong>, proteção por <strong>CSRF</strong>,
+    <strong>rate limiting</strong>, testes automatizados e observabilidade. O principal
+    diferencial técnico está no fluxo assíncrono com <strong>Outbox Pattern + RabbitMQ</strong>,
+    garantindo publicação desacoplada de eventos financeiros, além de notificações em tempo real
+    com <strong>SignalR</strong> para atualização do dashboard.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/smart_finance">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="http://3.223.37.57/login">
+      <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    </a>
+  </p>
     </td>
     <td width="50%" valign="top">
       <h3>🧠 Article Intelligence Platform</h3>
