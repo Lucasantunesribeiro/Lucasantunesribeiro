@@ -394,23 +394,42 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Sistema de Gestão Distribuído</h3>
-      <p>Microsserviços com Event Sourcing, CQRS e mensageria assíncrona.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=111827" />
-        <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/Sistema_de_Gestao_de_Pedidos_Distribu-do_com_Event_Sourcing">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-         <a href="http://98.92.208.98/dashboard">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-        </a> 
-      </p>
+      <h3>⚙️ Sistema de Gestão de Pedidos com Arquitetura Modular</h3>
+  <p>
+    Backend para <strong>gestão de pedidos, pagamentos e estoque</strong>, desenvolvido para
+    simular fluxos típicos de operações comerciais e backoffice, incluindo
+    <strong>criação de pedidos</strong>, <strong>reserva de estoque</strong>,
+    <strong>processamento de pagamento</strong>, <strong>cancelamento com compensação</strong>
+    e acompanhamento operacional via dashboard.
+  </p>
+  <p>
+    O projeto foi estruturado como um <strong>monólito modular em Java/Spring Boot</strong>,
+    organizado por domínios como <strong>order</strong>, <strong>inventory</strong> e
+    <strong>payment</strong>. Entre os principais diferenciais estão
+    <strong>APIs REST</strong>, <strong>event store para auditoria e rastreabilidade</strong>,
+    <strong>JWT</strong>, <strong>rate limiting</strong>, <strong>headers de segurança</strong>,
+    <strong>observabilidade com Prometheus/Grafana/Loki</strong>,
+    <strong>testes automatizados</strong>, <strong>Docker</strong>,
+    <strong>CI/CD com GitHub Actions</strong> e <strong>deploy em AWS</strong>.
+    O repositório também preserva artefatos legados de evolução para
+    <strong>microserviços e mensageria com RabbitMQ</strong>, o que reforça a discussão
+    arquitetural do projeto.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/JWT-111827?style=flat&logo=jsonwebtokens&logoColor=white" />
+    <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/Sistema_de_Gestao_de_Pedidos_Distribu-do_com_Event_Sourcing">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
     </td>
   </tr>
   <tr>
