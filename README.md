@@ -233,22 +233,39 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📑 CollabDocs</h3>
-      <p>Documentos colaborativos em tempo real com infra serverless.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=cloudflare&logoColor=111827" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=111827" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/Collabdocs">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://collabdocs-app.vercel.app/">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </p>
+      <h3>📑 Plataforma de Documentos Compartilhados com Login Social</h3>
+  <p>
+    Aplicação fullstack para <strong>criação, edição e compartilhamento de documentos pela web</strong>,
+    com <strong>autenticação via Google e GitHub</strong>, dashboard protegido,
+    definição de visibilidade por documento e experiência de edição com
+    <strong>autosave</strong> para salvar alterações automaticamente.
+  </p>
+  <p>
+    O projeto foi construído com <strong>Next.js</strong> no frontend e
+    <strong>Cloudflare Workers</strong> no backend, adotando uma arquitetura
+    <strong>serverless</strong> com persistência relacional em
+    <strong>Cloudflare D1</strong>. Entre os principais pontos técnicos estão
+    <strong>OAuth com NextAuth</strong>, <strong>JWT assinado entre frontend e backend</strong>,
+    <strong>controle de acesso por documento</strong> para proprietário e colaborador,
+    <strong>rate limiting</strong>, <strong>migrations SQL</strong> e deploy em cloud.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=111827" />
+    <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat&logo=cloudflare&logoColor=111827" />
+    <img src="https://img.shields.io/badge/NextAuth-111827?style=flat" />
+    <img src="https://img.shields.io/badge/OAuth-111827?style=flat" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/Collabdocs">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://collabdocs-app.vercel.app/">
+      <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" />
+    </a>
+  </p>
     </td>
     <td width="50%" valign="top">
       <h3>🔗 Sistema Seguro de Encurtamento de URLs</h3>
