@@ -434,20 +434,39 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🧩 Kogui Pokédx</h3>
-      <p>Desafio técnico Fullstack com Django 5 e Angular 17: PokéAPI, autenticação JWT e painel administrativo.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Angular%2017-DD0031?style=flat&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django%205.0-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/JWT-111827?style=flat&logo=jsonwebtokens&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/Kogui_pokedex">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
+      <h3>🧩 Sistema Fullstack de Catálogo e Coleção de Pokémons</h3>
+  <p>
+    Aplicação fullstack para <strong>consulta de Pokémons, autenticação de usuários,
+    gerenciamento de favoritos e montagem de equipe de batalha</strong>, criada a partir da
+    integração com a <strong>PokéAPI</strong>. O sistema centraliza o consumo da API externa
+    no backend, persiste dados do usuário e entrega uma experiência completa de navegação,
+    login e operações autenticadas em uma SPA.
+  </p>
+  <p>
+    O projeto foi construído como um <strong>monólito modular</strong> com
+    <strong>Django REST Framework</strong> no backend e <strong>Angular 17</strong> no frontend.
+    Entre os principais pontos técnicos estão <strong>autenticação JWT com refresh token</strong>,
+    <strong>validações de regra de negócio</strong>, <strong>constraints no banco</strong>,
+    <strong>integração externa com retry</strong>, <strong>logging estruturado</strong>,
+    <strong>health check</strong>, <strong>testes automatizados no backend</strong>,
+    <strong>Docker</strong> e trilha de deploy em <strong>AWS</strong> com
+    <strong>S3, CloudFront, Lambda, API Gateway e RDS</strong>.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Angular_17-DD0031?style=flat&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django_5-092E20?style=flat&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django_REST_Framework-111827?style=flat&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/JWT-111827?style=flat&logo=jsonwebtokens&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/Kogui_pokedex">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
     </td>
   </tr>
   <tr>
