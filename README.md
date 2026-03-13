@@ -289,21 +289,38 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚗 Locadora de Carros</h3>
-      <p>Gestão de locadora com autenticação, CRUDs e permissões.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript&logoColor=F7DF1E" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/locadora_de_carros">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://locadora-de-carros.onrender.com/">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=render&logoColor=white" />
-        </a>
-      </p>
+      <h3>🚗 Sistema de Gestão para Locadora de Carros</h3>
+  <p>
+    Aplicação fullstack para <strong>gestão de usuários, frota e aluguéis</strong>,
+    desenvolvida para centralizar operações básicas de uma locadora em uma única interface.
+    O sistema permite autenticação de usuários, cadastro e manutenção de veículos,
+    registro de locações e cálculo do valor total com base no período informado.
+  </p>
+  <p>
+    O projeto foi construído como um <strong>monólito em PHP</strong>, com
+    <strong>roteador próprio</strong>, <strong>views server-rendered</strong>,
+    chamadas assíncronas via JavaScript e persistência em <strong>SQLite</strong>.
+    Entre os principais pontos técnicos estão <strong>autenticação por sessão</strong>,
+    <strong>CRUD completo</strong>, uso de <strong>prepared statements</strong>,
+    <strong>hash de senha</strong>, <strong>health check</strong> e
+    <strong>containerização com Docker</strong>.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-111827?style=flat&logo=javascript&logoColor=F7DF1E" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/locadora_de_carros">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://locadora-de-carros.onrender.com/">
+      <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=render&logoColor=white" />
+    </a>
+  </p>
     </td>
     <td width="50%" valign="top">
       <h3>🧩 Logic Games Suite — Interactive Puzzle Platform</h3>
@@ -455,20 +472,38 @@
   </p>
     </td>
     <td width="50%" valign="top">
-      <h3>💳 Billing Ledger — Event-Driven Payments</h3>
-      <p>Sistema de cobrança e conciliação com arquitetura DDD, SAGA de pagamentos e mensageria real na AWS.</p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET%209-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS%20SNS%2FSQS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/billing_ledger">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
+      <h3>💳 Sistema Backend de Cobrança e Conciliação Financeira</h3>
+  <p>
+    Backend distribuído para <strong>emissão de cobranças, processamento assíncrono de pagamentos
+    e conciliação contábil em ledger</strong>, projetado para lidar com rastreabilidade financeira,
+    mudanças de estado da invoice e integração entre componentes desacoplados.
+  </p>
+  <p>
+    O projeto foi desenvolvido com <strong>.NET 9</strong> em uma arquitetura
+    <strong>orientada a eventos</strong>, separando os contextos de
+    <strong>billing</strong>, <strong>payments</strong> e <strong>ledger</strong>.
+    Entre os principais diferenciais estão <strong>API REST</strong>,
+    <strong>DDD tático</strong>, <strong>Outbox Pattern</strong>,
+    <strong>idempotência nos consumers</strong>, <strong>webhook seguro com HMAC</strong>,
+    <strong>autenticação JWT com RBAC</strong>, <strong>mensageria real com MassTransit + AWS SNS/SQS</strong>,
+    <strong>auditoria</strong>, <strong>Docker</strong>, <strong>CI com GitHub Actions</strong> e
+    <strong>infraestrutura como código com AWS CDK</strong>.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS_SNS%2FSQS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/MassTransit-111827?style=flat" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS_CDK-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/billing_ledger">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
     </td>
   </tr> 
   <tr>
