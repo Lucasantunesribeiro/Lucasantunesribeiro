@@ -473,22 +473,39 @@
   </tr> 
   <tr>
   <td width="50%" valign="top">
-  <h3>🏭 ERP — Order Management</h3>
-  <p>Módulo ERP de gestão de pedidos com arquitetura Modular Monolith, DDD, Celery jobs, Redis e cobertura de testes >97%.</p>
-
+  <h3>🏭 Módulo ERP de Gestão de Pedidos e Estoque</h3>
   <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django%205-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    Backend transacional para <strong>gestão de pedidos, clientes, produtos e estoque</strong>,
+    desenvolvido para garantir consistência operacional em fluxos típicos de ERP. O sistema
+    valida regras de negócio importantes, como cliente ativo, produto disponível, estoque suficiente,
+    histórico de status do pedido e prevenção de inconsistências em operações concorrentes.
   </p>
-
   <p>
-<a href="https://github.com/Lucasantunesribeiro/sistema_erp_modulo_de_gestao_de_pedidos">
-<img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
+    O projeto foi estruturado como um <strong>monólito modular</strong> com separação por domínio,
+    usando <strong>service layer</strong>, <strong>repository pattern</strong> e transações atômicas
+    para proteger o fluxo crítico de criação e cancelamento de pedidos. Entre os diferenciais estão
+    <strong>autenticação JWT</strong>, <strong>controle transacional de estoque com lock</strong>,
+    <strong>outbox transacional</strong>, <strong>idempotência</strong>,
+    <strong>logs estruturados com correlation ID</strong>, <strong>health checks</strong>,
+    <strong>Swagger/OpenAPI</strong>, <strong>Docker</strong>,
+    <strong>CI com GitHub Actions</strong> e uma suíte extensa de
+    <strong>testes automatizados</strong>.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django_5-092E20?style=flat&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/DRF-111827?style=flat&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/sistema_erp_modulo_de_gestao_de_pedidos">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
 </td>
 </tr>
 </table>
