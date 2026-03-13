@@ -248,22 +248,40 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🔗 LinkGuardião</h3>
-      <p>Encurtador de URLs seguro com senha, expiração e métricas.</p>
-      <p>
-        <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=111827" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/LinkGuardiao">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://linkguardiao.pages.dev/">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=cloudflare&logoColor=white" />
-        </a>
-      </p>
+      <h3>🔗 Sistema Seguro de Encurtamento de URLs</h3>
+  <p>
+    Plataforma fullstack para <strong>encurtamento e gestão segura de links</strong>,
+    permitindo criar URLs curtas com <strong>senha</strong>,
+    <strong>expiração configurável</strong>, desativação e acompanhamento de
+    <strong>estatísticas de acesso</strong> em dashboard.
+  </p>
+  <p>
+    O projeto foi desenvolvido com <strong>.NET 8 + React</strong> e vai além de um
+    encurtador tradicional ao incorporar preocupações reais de produto e engenharia:
+    <strong>autenticação JWT com refresh token</strong>,
+    <strong>rate limiting</strong>, <strong>headers de segurança</strong>,
+    <strong>cache</strong>, <strong>health checks</strong> e
+    <strong>analytics assíncrono com SQS + AWS Lambda</strong>, desacoplando o
+    processamento de métricas do fluxo crítico de redirecionamento.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS_SQS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+  </p>
+  <p>
+    <a href="https://github.com/Lucasantunesribeiro/LinkGuardiao">
+      <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="https://linkguardiao.pages.dev/">
+      <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=cloudflare&logoColor=white" />
+    </a>
+  </p>
     </td>
   </tr>
   <tr>
