@@ -492,10 +492,10 @@
     alt="GitHub Stats"
   />
   <img
-    height="165"
-    src="https://github-readme-stats-delta-gilt-78.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=8&theme=transparent&title_color=58A6FF&text_color=C9D1D9&hide_border=true&cache_seconds=86400&v=1"
-    alt="Top Languages"
-  />
+  height="165"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=8&theme=transparent&title_color=58A6FF&text_color=C9D1D9&hide_border=true"
+  alt="Top Languages"
+/>
 </div>
 
 ---
