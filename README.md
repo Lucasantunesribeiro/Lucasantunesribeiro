@@ -225,6 +225,41 @@
       </p>
     </td>
   </tr>
+  <tr>
+  <td width="50%" valign="top">
+      <h3>🧠 Sistema de Extração e Sumarização de Artigos com IA</h3>
+      <p>
+        Plataforma web para <strong>extração, processamento e sumarização assíncrona de artigos públicos</strong>,
+        combinando scraping seguro, NLP e IA generativa. O sistema recebe uma URL,
+        processa o conteúdo e gera resumos por <strong>TF-IDF</strong> ou <strong>Google Gemini</strong>.
+      </p>
+      <p>
+        Desenvolvido como <strong>monólito modular</strong> com API REST e frontend próprio,
+        incluindo <strong>RBAC</strong>, <strong>cache com Redis</strong>,
+        <strong>processamento assíncrono com Celery + RabbitMQ</strong>,
+        <strong>Outbox Pattern</strong>, <strong>DLQ</strong>, migrations,
+        testes automatizados, health checks e observabilidade com Prometheus/Grafana.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-111827?style=flat&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/article_summarizer_agent">
+          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+        <a href="https://article-summarizer-agent.onrender.com/">
+          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=render&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
