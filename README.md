@@ -2,12 +2,12 @@
 
 # 👋 Olá, eu sou Lucas Antunes Ferreira
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Fullstack+com+backend+forte;C%23+%7C+.NET+%7C+React+%7C+Next.js+%7C+AWS;APIs+REST+%7C+Arquitetura+%7C+CI%2FCD+%7C+Observabilidade;Sistemas+web%2C+cloud+e+produtos+com+foco+em+escala" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Fullstack+com+foco+em+backend;C%23+%7C+.NET+%7C+React+%7C+PostgreSQL+%7C+AWS;Regras+de+neg%C3%B3cio+%7C+Seguran%C3%A7a+%7C+CI%2FCD+%7C+Observabilidade;Produtos+B2B+publicados+e+testados+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
 
 <p>
-  Construo aplicações <strong>fullstack</strong> e <strong>backend-heavy</strong> com foco em
-  <strong>arquitetura</strong>, <strong>segurança</strong>, <strong>cloud</strong>,
-  <strong>testes</strong> e <strong>qualidade de entrega</strong>.
+  Construo produtos <strong>fullstack</strong> com foco principal em <strong>C#/.NET</strong> e backend,
+  passando por <strong>regras de negócio</strong>, <strong>segurança</strong>,
+  <strong>cloud</strong>, <strong>testes</strong> e operação em produção.
 </p>
 
 <p>
@@ -36,11 +36,11 @@
 
 ## ⚡ Sobre mim
 
-- 💻 Desenvolvedor **Fullstack com base sólida em backend**
-- 🧱 Forte em **APIs REST, arquitetura, integrações, banco de dados e regras de negócio**
-- 🔐 Experiência prática com **autenticação, autorização, rate limiting, observabilidade e hardening**
-- ☁️ Vivência com **AWS, Docker, CI/CD, mensageria e deploy em cloud**
-- 🚀 Gosto de construir sistemas que saem do protótipo e se aproximam de **produção de verdade**
+- 💻 Desenvolvedor **Fullstack com foco principal em C#/.NET e backend**
+- 🧱 Forte em **APIs REST, modelagem de domínio, integrações, banco de dados e regras de negócio complexas**
+- 🔐 Experiência prática com **autenticação, autorização, multi-tenancy, rate limiting, auditoria e hardening**
+- ☁️ Vivência com **AWS, Docker, CI/CD, mensageria, observabilidade e deploy em cloud**
+- 🚀 Gosto de construir produtos que vão além do CRUD e chegam a **produção com testes, segurança e decisões de arquitetura documentadas**
 
 ---
 
@@ -67,9 +67,44 @@
 
 ## 🚀 Projetos em destaque
 
-> Projetos que representam melhor meu foco atual: **fullstack com backend forte**, arquitetura de produto, cloud e engenharia aplicada.
+> Meu foco atual é construir **produtos empresariais completos**, com backend forte, regras de negócio reais, segurança, testes, cloud e documentação de engenharia.
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🧾 Prisma RH <sub>— projeto mais recente · v1.0.0</sub></h3>
+      <p>
+        Plataforma B2B de <strong>gestão, cálculo e conferência de folha de pagamento brasileira</strong>,
+        construída para tornar cada valor rastreável: folha mensal, férias, 13º, rescisões,
+        INSS, FGTS, IRRF, memória de cálculo e tratamento de inconsistências.
+      </p>
+      <p>
+        Destaques: <strong>.NET 10 + React + PostgreSQL</strong>, monólito modular,
+        <strong>multi-tenancy</strong>, histórico por vigência, workflow e auditoria somente-inserção,
+        importação CSV/XLSX com processamento assíncrono, <strong>AWS Lambda + SQS</strong>,
+        IA assistiva com vocabulário fechado, CI/CD e pentest documentado.
+      </p>
+      <p>
+        Qualidade: <strong>1.286 testes de backend</strong>, <strong>171 de frontend</strong> e
+        <strong>50 testes de segurança</strong>, com suíte também executada no modo de globalização usado em produção.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_SQS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Release-v1.0.0-22c55e?style=flat" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/prisma_rh"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://portfolio-prisma-rh.vercel.app"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/Lucasantunesribeiro/prisma_rh/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/v1.0.0-2563eb?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>💳 SmartFinance</h3>
