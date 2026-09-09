@@ -151,41 +151,100 @@
 
 ## Outros projetos
 
+<div align="center">
+  <sub>Mais projetos que reforçam backend, arquitetura, mensageria e produto fullstack.</sub>
+</div>
+
+<br/>
+
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>SmartFinance</h3>
-      <p>Gestão financeira fullstack com <strong>.NET 8 + Next.js</strong>, autenticação, analytics, Outbox Pattern, RabbitMQ, SignalR, Docker e AWS.</p>
-      <p><a href="https://github.com/Lucasantunesribeiro/smart_finance">Repositório</a></p>
+      <h3>💳 SmartFinance</h3>
+      <p>Plataforma de gestão financeira com <strong>.NET 8 + Next.js</strong>, autenticação, analytics, Outbox Pattern, RabbitMQ, SignalR, Docker e AWS.</p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/smart_finance"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="http://3.223.37.57/login"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>TenantCore</h3>
+      <h3>🏢 TenantCore</h3>
       <p>SaaS B2B multi-tenant com <strong>.NET 9 + React</strong>, RBAC, refresh token rotativo, SQL Server, Redis, Quartz e OpenTelemetry.</p>
-      <p><a href="https://github.com/Lucasantunesribeiro/tenant_core">Repositório</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+        <img src="https://img.shields.io/badge/OpenTelemetry-111827?style=flat" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/tenant_core"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://purple-dune-018763b0f.4.azurestaticapps.net"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>BillingLedger</h3>
+      <h3>💳 BillingLedger</h3>
       <p>Backend distribuído para cobranças e conciliação em ledger com <strong>.NET 9</strong>, DDD, Outbox, idempotência, HMAC e AWS SNS/SQS.</p>
-      <p><a href="https://github.com/Lucasantunesribeiro/billing_ledger">Repositório</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/SNS%2FSQS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/HMAC-111827?style=flat" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/billing_ledger"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>LinkGuardião</h3>
+      <h3>🔗 LinkGuardião</h3>
       <p>Gestão segura de links com <strong>.NET 8 + React</strong>, refresh token, rate limiting e analytics assíncrono com SQS + Lambda.</p>
-      <p><a href="https://github.com/Lucasantunesribeiro/LinkGuardiao">Repositório</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
+        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rate%20Limiting-111827?style=flat" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/LinkGuardiao"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://linkguardiao.pages.dev/"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
+      </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Emissão de NF-e e Estoque</h3>
+      <h3>📄 Emissão de NF-e e Estoque</h3>
       <p>Arquitetura serverless com <strong>.NET 8 + Go + Angular</strong>, Lambda, API Gateway, Cognito, EventBridge, SQS/DLQ, DynamoDB e CDK.</p>
-      <p><a href="https://github.com/Lucasantunesribeiro/emissao_nfe">Repositório</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
+        <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=flat&logo=amazonaws&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/emissao_nfe"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://d1gdw7rlsi8u42.cloudfront.net/"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>Article Summarizer</h3>
+      <h3>🧠 Article Summarizer</h3>
       <p>Processamento assíncrono de artigos com <strong>Python + Flask + React</strong>, Redis, Celery, RabbitMQ, Outbox e IA generativa.</p>
-      <p><a href="https://github.com/Lucasantunesribeiro/article_summarizer_agent">Repositório</a></p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-111827?style=flat&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+        <img src="https://img.shields.io/badge/IA-111827?style=flat" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/article_summarizer_agent"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://article-summarizer-agent.onrender.com/"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=render&logoColor=white" /></a>
+      </p>
     </td>
   </tr>
 </table>
@@ -208,12 +267,12 @@
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats-delta-gilt-78.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&hide_title=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&v=1"
+    src="https://github-readme-stats-delta-gilt-78.vercel.app/api?username=Lucasantunesribeiro&show_icons=true&hide_title=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400&v=2"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=8&theme=transparent&title_color=58A6FF&text_color=C9D1D9&hide_border=true"
+    src="https://github-readme-stats-delta-gilt-78.vercel.app/api/top-langs/?username=Lucasantunesribeiro&layout=compact&langs_count=8&theme=transparent&title_color=58A6FF&text_color=C9D1D9&hide_border=true&cache_seconds=86400&v=2"
     alt="Top Languages"
   />
 </div>
