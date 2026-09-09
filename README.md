@@ -1,13 +1,13 @@
 <div align="center">
 
-# 👋 Olá, eu sou Lucas Antunes Ferreira
+# Lucas Antunes Ferreira
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Fullstack+com+foco+em+backend;C%23+%7C+.NET+%7C+React+%7C+PostgreSQL+%7C+AWS;Regras+de+neg%C3%B3cio+%7C+Seguran%C3%A7a+%7C+CI%2FCD+%7C+Observabilidade;Produtos+B2B+publicados+e+testados+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Fullstack+com+foco+em+backend;C%23+%7C+.NET+%7C+React+%7C+PostgreSQL+%7C+AWS;Sistemas+distribu%C3%ADdos+%7C+Regras+de+neg%C3%B3cio+%7C+Seguran%C3%A7a;Produtos+B2B+publicados+e+validados+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
 
 <p>
-  Construo produtos <strong>fullstack</strong> com foco principal em <strong>C#/.NET</strong> e backend,
-  passando por <strong>regras de negócio</strong>, <strong>segurança</strong>,
-  <strong>cloud</strong>, <strong>testes</strong> e operação em produção.
+  Desenvolvedor <strong>Fullstack</strong> com foco principal em <strong>C#/.NET e backend</strong>.
+  Construo produtos que vão além do CRUD: regras de negócio, concorrência, idempotência,
+  mensageria, segurança, observabilidade, testes e operação real em cloud.
 </p>
 
 <p>
@@ -20,59 +20,99 @@
   <a href="mailto:lucas.afvr@gmail.com">
     <img src="https://img.shields.io/badge/Email-lucas.afvr%40gmail.com-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Lucasantunesribeiro">
-    <img src="https://img.shields.io/badge/GitHub-Lucasantunesribeiro-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Lucasantunesribeiro&label=visitas&color=58A6FF&style=flat" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Fullstack%20%2F%20Backend-58A6FF?style=flat" />
+  <img src="https://img.shields.io/badge/Foco-Fullstack%20%2F%20Backend-58A6FF?style=flat" />
 </p>
 
 </div>
 
 ---
 
-## ⚡ Sobre mim
+## Sobre mim
 
-- 💻 Desenvolvedor **Fullstack com foco principal em C#/.NET e backend**
-- 🧱 Forte em **APIs REST, modelagem de domínio, integrações, banco de dados e regras de negócio complexas**
-- 🔐 Experiência prática com **autenticação, autorização, multi-tenancy, rate limiting, auditoria e hardening**
-- ☁️ Vivência com **AWS, Docker, CI/CD, mensageria, observabilidade e deploy em cloud**
-- 🚀 Gosto de construir produtos que vão além do CRUD e chegam a **produção com testes, segurança e decisões de arquitetura documentadas**
+- Desenvolvedor **Fullstack com foco em C#/.NET e backend**.
+- Experiência prática com **APIs REST, modelagem de domínio, integrações, PostgreSQL e regras de negócio complexas**.
+- Trabalho com **autenticação, autorização, multi-tenancy, rate limiting, auditoria e hardening**.
+- Experiência com **AWS Lambda, SQS, Docker, CI/CD, observabilidade e deploy em cloud**.
+- Interesse especial em **consistência, concorrência, idempotência, processamento assíncrono e sistemas distribuídos**.
+- Prefiro projetos em que decisões de arquitetura, segurança e operação possam ser **explicadas e comprovadas por testes**.
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,nodejs,java,python,postgres,mysql,redis,aws,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,ts,nodejs,python,java,postgres,mysql,redis,aws,docker,githubactions" />
 </div>
 
 <br/>
 
 <details>
-  <summary><strong>📚 Ver stack completa</strong></summary>
+  <summary><strong>Ver stack completa</strong></summary>
 
-**Backend:** C#/.NET, Node.js, Java/Spring Boot, Python/FastAPI/Flask/Django, APIs REST, JWT, Clean Architecture, CQRS  
-**Frontend:** React, Next.js, TypeScript, Angular, Tailwind CSS  
+**Backend:** C#/.NET, ASP.NET Core, Node.js, Java/Spring Boot, Python/FastAPI/Flask/Django, APIs REST  
+**Frontend:** React, Next.js, TypeScript, Angular, Vite, Tailwind CSS  
 **Banco:** PostgreSQL, SQL Server, MySQL, DynamoDB, Redis, Supabase  
-**Cloud/DevOps:** AWS, Azure, Docker, GitHub Actions, CDK, Terraform, CI/CD  
-**Qualidade:** Testes automatizados, Health Checks, Logging, Observabilidade, Segurança
+**Cloud/DevOps:** AWS, Azure, Docker, GitHub Actions, CI/CD, infraestrutura como código  
+**Engenharia:** DDD, monólito modular, Outbox Pattern, idempotência, mensageria, observabilidade, testes automatizados, segurança
 
 </details>
 
 ---
 
-## 🚀 Projetos em destaque
+## Projetos principais
 
-> Meu foco atual é construir **produtos empresariais completos**, com backend forte, regras de negócio reais, segurança, testes, cloud e documentação de engenharia.
+> Meus dois projetos mais completos foram construídos para provar competências diferentes: **Central Antifraude** enfatiza sistemas distribuídos e operação em cloud; **Prisma RH** enfatiza domínio complexo, cálculos determinísticos e rastreabilidade.
 
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🧾 Prisma RH <sub>— projeto mais recente · v1.0.0</sub></h3>
+      <h3>Central Antifraude <sub>— projeto mais recente · em produção</sub></h3>
+      <p>
+        Plataforma B2B para <strong>avaliação de risco, monitoramento e investigação de transações suspeitas</strong>.
+        Recebe uma transação, calcula um score determinístico e explicável e retorna
+        <strong>Permitir, Revisar ou Bloquear</strong>. Alertas suspeitos seguem para uma operação humana de investigação.
+      </p>
+      <p>
+        O projeto foi desenhado para exercitar problemas reais de backend: <strong>idempotência sob concorrência</strong>,
+        transações serializáveis, regras versionadas, <strong>Transactional Outbox</strong>, consumo at-least-once,
+        Inbox, SQS/DLQ, processamento assíncrono e correlação ponta a ponta.
+      </p>
+      <p>
+        Produção: <strong>.NET 10 + React 19 + PostgreSQL 17</strong>, API e workers em
+        <strong>AWS Lambda</strong>, filas <strong>SQS</strong>, recuperação por EventBridge Scheduler,
+        banco serverless no <strong>Neon</strong> e frontend na <strong>Vercel</strong>.
+      </p>
+      <p>
+        Qualidade: <strong>1.215 testes automatizados</strong>, CI no GitHub Actions,
+        Security Gates por fase e <strong>pentest gray-box documentado com 19 vetores</strong>.
+        Bugs encontrados somente em produção — IAM/SSM, CORS, cold start, pooling e cookies cross-site —
+        foram corrigidos e transformados em proteções automatizadas.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=111827" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS_SQS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+        <img src="https://img.shields.io/badge/Produção-22c55e?style=flat" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/central-antifraude"><img src="https://img.shields.io/badge/Repositório-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://central-antifraude.vercel.app"><img src="https://img.shields.io/badge/Demo%20ao%20vivo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/user-attachments/assets/9afe53b9-7b4a-4c3c-8f45-e6d966042673"><img src="https://img.shields.io/badge/Vídeo-24s-2563eb?style=for-the-badge" /></a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Prisma RH <sub>— folha de pagamento brasileira · v1.0.0</sub></h3>
       <p>
         Plataforma B2B de <strong>gestão, cálculo e conferência de folha de pagamento brasileira</strong>,
         construída para tornar cada valor rastreável: folha mensal, férias, 13º, rescisões,
@@ -80,13 +120,14 @@
       </p>
       <p>
         Destaques: <strong>.NET 10 + React + PostgreSQL</strong>, monólito modular,
-        <strong>multi-tenancy</strong>, histórico por vigência, workflow e auditoria somente-inserção,
+        multi-tenancy, histórico por vigência, workflow e auditoria somente-inserção,
         importação CSV/XLSX com processamento assíncrono, <strong>AWS Lambda + SQS</strong>,
-        IA assistiva com vocabulário fechado, CI/CD e pentest documentado.
+        CI/CD e pentest documentado.
       </p>
       <p>
         Qualidade: <strong>1.286 testes de backend</strong>, <strong>171 de frontend</strong> e
-        <strong>50 testes de segurança</strong>, com suíte também executada no modo de globalização usado em produção.
+        <strong>50 testes de segurança</strong>, incluindo validações de cálculo, isolamento entre tenants,
+        segurança e execução no ambiente de globalização usado em produção.
       </p>
       <p>
         <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat&logo=dotnet&logoColor=white" />
@@ -95,203 +136,12 @@
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
         <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_SQS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/Release-v1.0.0-22c55e?style=flat" />
+        <img src="https://img.shields.io/badge/v1.0.0-22c55e?style=flat" />
       </p>
       <p>
-        <a href="https://github.com/Lucasantunesribeiro/prisma_rh"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://portfolio-prisma-rh.vercel.app"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-        <a href="https://github.com/Lucasantunesribeiro/prisma_rh/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/v1.0.0-2563eb?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💳 SmartFinance</h3>
-      <p>
-        Plataforma fullstack de <strong>gestão financeira</strong> com backend em <strong>.NET 8</strong>
-        e frontend em <strong>Next.js</strong>, cobrindo autenticação, contas, transações,
-        categorias, orçamentos e analytics.
-      </p>
-      <p>
-        Destaques: <strong>Clean Architecture</strong>, <strong>JWT + cookies HttpOnly</strong>,
-        <strong>CSRF</strong>, <strong>rate limiting</strong>, testes automatizados,
-        <strong>Outbox Pattern + RabbitMQ</strong>, <strong>SignalR</strong>, Docker e AWS.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/smart_finance"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="http://3.223.37.57/login"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏢 TenantCore</h3>
-      <p>
-        Sistema fullstack B2B para operação de um <strong>SaaS multi-tenant</strong>, com
-        isolamento por tenant, controle de usuários, permissões, clientes, projetos,
-        tarefas, planos e auditoria.
-      </p>
-      <p>
-        Destaques: <strong>.NET 9 + React</strong>, <strong>monólito modular</strong>,
-        <strong>JWT + refresh token rotativo</strong>, <strong>RBAC</strong>,
-        <strong>EF Core + SQL Server</strong>, <strong>Redis</strong>, <strong>Quartz</strong>,
-        <strong>OpenTelemetry</strong>, health checks e CI/CD.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/OpenTelemetry-111827?style=flat" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/tenant_core"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://purple-dune-018763b0f.4.azurestaticapps.net"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=microsoftazure&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔗 LinkGuardião</h3>
-      <p>
-        Plataforma fullstack para <strong>encurtamento e gestão segura de links</strong>,
-        com autenticação, links protegidos por senha, expiração configurável,
-        dashboard e estatísticas de acesso.
-      </p>
-      <p>
-        Destaques: <strong>.NET 8 + React</strong>, <strong>refresh token</strong>,
-        <strong>rate limiting</strong>, headers de segurança, health checks e
-        <strong>analytics assíncrono com SQS + AWS Lambda</strong>.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_SQS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=awslambda&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/LinkGuardiao"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://linkguardiao.pages.dev/"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=cloudflare&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🏡 Armazém São Joaquim</h3>
-      <p>
-        Plataforma digital fullstack para um <strong>negócio real</strong>, reunindo site,
-        cardápio, blog, área da pousada, catálogo do café, galeria e painel administrativo.
-      </p>
-      <p>
-        Destaques: <strong>Next.js + TypeScript</strong>, arquitetura serverless,
-        <strong>Supabase</strong>, PostgreSQL, autenticação, controle de acesso,
-        fluxo de reservas, conteúdo dinâmico, RLS, migrations e recursos de PWA.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=111827" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/armazemsaojoaquim"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://armazemsaojoaquim.com.br/"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📄 Emissão de NF-e e Controle de Estoque</h3>
-      <p>
-        Sistema distribuído <strong>serverless</strong> inspirado no domínio de emissão de NF-e,
-        projetado para orquestrar fluxos de faturamento, reserva de estoque e geração assíncrona de PDF.
-      </p>
-      <p>
-        Destaques: <strong>.NET 8 + Go + Angular</strong>, <strong>AWS Lambda</strong>,
-        <strong>API Gateway</strong>, <strong>Cognito</strong>, <strong>EventBridge</strong>,
-        <strong>SQS + DLQ</strong>, <strong>DynamoDB</strong> e <strong>AWS CDK</strong>.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET_8-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-        <img src="https://img.shields.io/badge/Angular_19-DD0031?style=flat&logo=angular&logoColor=white" />
-        <img src="https://img.shields.io/badge/EventBridge-FF4F8B?style=flat&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/SQS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat&logo=amazondynamodb&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/emissao_nfe"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://d1gdw7rlsi8u42.cloudfront.net/"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=amazonaws&logoColor=white" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📑 CollabDocs</h3>
-      <p>
-        Aplicação fullstack para <strong>criação, edição e compartilhamento de documentos</strong>,
-        com login social, dashboard protegido, definição de visibilidade e edição colaborativa.
-      </p>
-      <p>
-        Destaques: <strong>Next.js</strong>, <strong>Cloudflare Workers</strong>,
-        <strong>Cloudflare D1</strong>, <strong>OAuth</strong>, JWT assinado entre frontend e backend,
-        ACL por documento, rate limiting e migrations SQL.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js-111827?style=flat&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat&logo=cloudflare&logoColor=111827" />
-        <img src="https://img.shields.io/badge/Cloudflare_D1-F38020?style=flat&logo=cloudflare&logoColor=111827" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/Collabdocs"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="https://collabdocs-app.vercel.app/"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-  <td width="50%" valign="top">
-      <h3>🧠 Sistema de Extração e Sumarização de Artigos com IA</h3>
-      <p>
-        Plataforma web para <strong>extração, processamento e sumarização assíncrona de artigos públicos</strong>,
-        combinando scraping seguro, NLP e IA generativa. O sistema recebe uma URL,
-        processa o conteúdo e gera resumos por <strong>TF-IDF</strong> ou <strong>Google Gemini</strong>.
-      </p>
-      <p>
-        Desenvolvido como <strong>monólito modular</strong> com API REST e frontend próprio,
-        incluindo <strong>RBAC</strong>, <strong>cache com Redis</strong>,
-        <strong>processamento assíncrono com Celery + RabbitMQ</strong>,
-        <strong>Outbox Pattern</strong>, <strong>DLQ</strong>, migrations,
-        testes automatizados, health checks e observabilidade com Prometheus/Grafana.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-111827?style=flat&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=111827" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/article_summarizer_agent">
-          <img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="https://article-summarizer-agent.onrender.com/">
-          <img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=render&logoColor=white" />
-        </a>
+        <a href="https://github.com/Lucasantunesribeiro/prisma_rh"><img src="https://img.shields.io/badge/Repositório-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://portfolio-prisma-rh.vercel.app"><img src="https://img.shields.io/badge/Demo%20ao%20vivo-22c55e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+        <a href="https://github.com/Lucasantunesribeiro/prisma_rh/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/Release-v1.0.0-2563eb?style=for-the-badge&logo=github&logoColor=white" /></a>
       </p>
     </td>
   </tr>
@@ -299,123 +149,61 @@
 
 ---
 
-## 🏗️ Backend & arquitetura
-
-> Projetos que reforçam meu lado de **engenharia backend**, sistemas distribuídos, modelagem de domínio, consistência, mensageria e operação.
+## Outros projetos
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💳 BillingLedger</h3>
-      <p>
-        Backend distribuído para <strong>emissão de cobranças, processamento assíncrono de pagamentos
-        e conciliação contábil em ledger</strong>, com foco em rastreabilidade e resiliência.
-      </p>
-      <p>
-        Destaques: <strong>.NET 9</strong>, <strong>DDD tático</strong>, <strong>Outbox Pattern</strong>,
-        <strong>idempotência</strong>, webhook com <strong>HMAC</strong>,
-        <strong>MassTransit + AWS SNS/SQS</strong>, PostgreSQL, Docker e AWS CDK.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/MassTransit-111827?style=flat" />
-        <img src="https://img.shields.io/badge/AWS_SNS%2FSQS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/billing_ledger"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </p>
+      <h3>SmartFinance</h3>
+      <p>Gestão financeira fullstack com <strong>.NET 8 + Next.js</strong>, autenticação, analytics, Outbox Pattern, RabbitMQ, SignalR, Docker e AWS.</p>
+      <p><a href="https://github.com/Lucasantunesribeiro/smart_finance">Repositório</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⚙️ Sistema de Gestão Distribuído de Pedidos</h3>
-      <p>
-        Sistema para <strong>gestão de pedidos, pagamentos e estoque</strong>, cobrindo criação de pedidos,
-        reserva de estoque, processamento de pagamento, cancelamento e visibilidade operacional.
-      </p>
-      <p>
-        Destaques: <strong>Java 17 + Spring Boot</strong>, arquitetura modular, APIs REST,
-        <strong>RabbitMQ</strong>, JWT, observabilidade com <strong>Prometheus/Grafana/Loki</strong>,
-        Docker, CI/CD e deploy em AWS.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Java_17-ED8B00?style=flat&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/Sistema_de_Gestao_de_Pedidos_Distribu-do_com_Event_Sourcing"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="http://98.92.208.98/"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-      </p>
+      <h3>TenantCore</h3>
+      <p>SaaS B2B multi-tenant com <strong>.NET 9 + React</strong>, RBAC, refresh token rotativo, SQL Server, Redis, Quartz e OpenTelemetry.</p>
+      <p><a href="https://github.com/Lucasantunesribeiro/tenant_core">Repositório</a></p>
     </td>
   </tr>
-
   <tr>
     <td width="50%" valign="top">
-      <h3>🏭 ERP - Módulo de Gestão de Pedidos</h3>
-      <p>
-        Backend transacional para <strong>gestão de pedidos, clientes, produtos e estoque</strong>,
-        com foco em consistência operacional, validações de negócio e concorrência.
-      </p>
-      <p>
-        Destaques: <strong>Django + DRF</strong>, <strong>service layer</strong>,
-        <strong>repository pattern</strong>, transações atômicas, controle de estoque,
-        outbox transacional, idempotência, correlation ID, Swagger, Docker e CI.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django_5-092E20?style=flat&logo=django&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
-        <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/sistema_erp_modulo_de_gestao_de_pedidos"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </p>
+      <h3>BillingLedger</h3>
+      <p>Backend distribuído para cobranças e conciliação em ledger com <strong>.NET 9</strong>, DDD, Outbox, idempotência, HMAC e AWS SNS/SQS.</p>
+      <p><a href="https://github.com/Lucasantunesribeiro/billing_ledger">Repositório</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>📩 EmailTriageAI</h3>
-      <p>
-        Aplicação web para <strong>triagem e classificação automática de emails corporativos</strong>,
-        com foco em reduzir ruído operacional e apoiar fluxos de atendimento interno.
-      </p>
-      <p>
-        Destaques: <strong>FastAPI</strong>, integração com <strong>Google Gemini</strong>,
-        baseline local com <strong>TF-IDF + Logistic Regression</strong>,
-        validação forte com <strong>Pydantic</strong>, CSRF, rate limiting,
-        proteção de upload e testes automatizados.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
-        <img src="https://img.shields.io/badge/Pydantic-111827?style=flat" />
-        <img src="https://img.shields.io/badge/Google_Gemini-111827?style=flat&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
-      </p>
-      <p>
-        <a href="https://github.com/Lucasantunesribeiro/EmailTriageAI"><img src="https://img.shields.io/badge/Repo-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
-        <a href="http://100.48.50.86/"><img src="https://img.shields.io/badge/Demo-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-      </p>
+      <h3>LinkGuardião</h3>
+      <p>Gestão segura de links com <strong>.NET 8 + React</strong>, refresh token, rate limiting e analytics assíncrono com SQS + Lambda.</p>
+      <p><a href="https://github.com/Lucasantunesribeiro/LinkGuardiao">Repositório</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Emissão de NF-e e Estoque</h3>
+      <p>Arquitetura serverless com <strong>.NET 8 + Go + Angular</strong>, Lambda, API Gateway, Cognito, EventBridge, SQS/DLQ, DynamoDB e CDK.</p>
+      <p><a href="https://github.com/Lucasantunesribeiro/emissao_nfe">Repositório</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Article Summarizer</h3>
+      <p>Processamento assíncrono de artigos com <strong>Python + Flask + React</strong>, Redis, Celery, RabbitMQ, Outbox e IA generativa.</p>
+      <p><a href="https://github.com/Lucasantunesribeiro/article_summarizer_agent">Repositório</a></p>
     </td>
   </tr>
 </table>
 
 ---
 
-## ✅ Como eu trabalho
+## Como eu trabalho
 
-- 🧱 **Arquitetura e organização:** separação de responsabilidades, modularização e código sustentável
-- 🧪 **Qualidade:** testes automatizados, validação, revisão e foco em manutenção
-- ⚡ **Performance & DX:** APIs consistentes, logging, health checks e atenção à experiência de desenvolvimento
-- 🔐 **Segurança:** autenticação, autorização, hardening, rate limiting e validação de entrada
-- ☁️ **Entrega:** Docker, CI/CD, deploy em cloud e evolução com foco em produção
+- **Domínio primeiro:** entender invariantes e comportamento antes de escolher abstrações.
+- **Consistência:** idempotência, concorrência, transações e efeitos assíncronos tratados explicitamente.
+- **Qualidade:** testes unitários, integração com banco real, arquitetura, frontend e gates de segurança.
+- **Segurança:** autenticação, autorização, isolamento entre tenants, rate limiting, secrets e hardening.
+- **Produção:** CI/CD, observabilidade, health checks, troubleshooting e correções orientadas por evidência.
+- **Documentação:** ADRs, decisões técnicas, limitações e resultados medidos ficam registrados junto do código.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
   <img
@@ -432,7 +220,7 @@
 
 ---
 
-## 🤝 Vamos conversar?
+## Contato
 
 <div align="center">
   <a href="https://www.lucasafvr.com.br/">
@@ -444,10 +232,4 @@
   <a href="mailto:lucas.afvr@gmail.com">
     <img src="https://img.shields.io/badge/Enviar%20Email-111827?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <sub>✨ Obrigado pela visita — <strong>let’s build something great.</strong></sub>
 </div>
