@@ -2,7 +2,7 @@
 
 # Lucas Antunes Ferreira
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Fullstack+com+foco+em+backend;C%23+%7C+.NET+%7C+React+%7C+PostgreSQL+%7C+AWS;Sistemas+distribu%C3%ADdos+%7C+Regras+de+neg%C3%B3cio+%7C+Seguran%C3%A7a;Produtos+B2B+publicados+e+validados+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Desenvolvedor+Fullstack+com+foco+em+backend;C%23+%7C+.NET+%7C+React+%7C+PostgreSQL+%7C+PostGIS;Sistemas+distribu%C3%ADdos+%7C+Regras+de+neg%C3%B3cio+%7C+Seguran%C3%A7a;Produtos+B2B+publicados+e+validados+em+produ%C3%A7%C3%A3o" alt="Typing SVG" />
 
 <p>
   Desenvolvedor <strong>Fullstack</strong> com foco principal em <strong>C#/.NET e backend</strong>.
@@ -34,9 +34,9 @@
 ## Sobre mim
 
 - Desenvolvedor **Fullstack com foco em C#/.NET e backend**.
-- Experiência prática com **APIs REST, modelagem de domínio, integrações, PostgreSQL e regras de negócio complexas**.
+- Experiência prática com **APIs REST, modelagem de domínio, integrações, PostgreSQL/PostGIS e regras de negócio complexas**.
 - Trabalho com **autenticação, autorização, multi-tenancy, rate limiting, auditoria e hardening**.
-- Experiência com **AWS Lambda, SQS, Docker, CI/CD, observabilidade e deploy em cloud**.
+- Experiência com **AWS Lambda, SQS, Oracle Cloud, Docker, CI/CD, observabilidade e deploy em cloud**.
 - Interesse especial em **consistência, concorrência, idempotência, processamento assíncrono e sistemas distribuídos**.
 - Prefiro projetos em que decisões de arquitetura, segurança e operação possam ser **explicadas e comprovadas por testes**.
 
@@ -55,8 +55,8 @@
 
 **Backend:** C#/.NET, ASP.NET Core, Node.js, Java/Spring Boot, Python/FastAPI/Flask/Django, APIs REST  
 **Frontend:** React, Next.js, TypeScript, Angular, Vite, Tailwind CSS  
-**Banco:** PostgreSQL, SQL Server, MySQL, DynamoDB, Redis, Supabase  
-**Cloud/DevOps:** AWS, Azure, Docker, GitHub Actions, CI/CD, infraestrutura como código  
+**Banco:** PostgreSQL, PostGIS, SQL Server, MySQL, DynamoDB, Redis, Supabase  
+**Cloud/DevOps:** AWS, Azure, Oracle Cloud, Docker, GitHub Actions, CI/CD, infraestrutura como código  
 **Engenharia:** DDD, monólito modular, Outbox Pattern, idempotência, mensageria, observabilidade, testes automatizados, segurança
 
 </details>
@@ -65,12 +65,50 @@
 
 ## Projetos principais
 
-> Meus dois projetos mais completos foram construídos para provar competências diferentes: **Central Antifraude** enfatiza sistemas distribuídos e operação em cloud; **Prisma RH** enfatiza domínio complexo, cálculos determinísticos e rastreabilidade.
+> Meus três projetos mais completos foram construídos para provar competências diferentes: **Torre Logística** enfatiza operação em tempo real, geolocalização e experiência ponta a ponta; **Central Antifraude** enfatiza sistemas distribuídos e operação em cloud; **Prisma RH** enfatiza domínio complexo, cálculos determinísticos e rastreabilidade.
 
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <h3>Central Antifraude <sub>— projeto mais recente · em produção</sub></h3>
+      <h3>Torre Logística <sub>— projeto mais recente · v1.0.1 · em produção</sub></h3>
+      <p>
+        Plataforma B2B de <strong>operação logística em tempo real</strong> para acompanhar a entrega entre a saída para rota e a conclusão.
+        O produto reúne <strong>console operacional, PWA do motorista e rastreamento público</strong> sobre o mesmo núcleo de domínio.
+      </p>
+      <p>
+        Destaques técnicos: <strong>.NET 10 + React 19 + PostgreSQL 17/PostGIS</strong>, geofencing, ETA/SLA,
+        SignalR, processamento idempotente, Transactional Outbox, prova de entrega, URLs assinadas,
+        multi-tenancy, RBAC e operação offline no aplicativo do motorista.
+      </p>
+      <p>
+        Qualidade e produção: CI com build/testes dos backends e frontends, <strong>teste de contrato contra a API real</strong>,
+        Security Gate com gitleaks e <strong>pentest gray-box de 16 categorias</strong>. A demo pública roda em Oracle Cloud Always Free,
+        com HTTPS e custo de <strong>US$ 0,00/mês</strong>.
+      </p>
+      <p align="center">
+        <img src="https://raw.githubusercontent.com/Lucasantunesribeiro/torre-logistica/main/docs/assets/screenshots/console-painel.png" alt="Console operacional da Torre Logística" width="100%" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat&logo=react&logoColor=111827" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostGIS-336791?style=flat" />
+        <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat" />
+        <img src="https://img.shields.io/badge/v1.0.1-22c55e?style=flat" />
+      </p>
+      <p>
+        <a href="https://github.com/Lucasantunesribeiro/torre-logistica"><img src="https://img.shields.io/badge/Repositório-111827?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <a href="https://operacao.torre.lucasafvr.com.br"><img src="https://img.shields.io/badge/Demo%20ao%20vivo-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+        <a href="https://github.com/Lucasantunesribeiro/torre-logistica/releases/tag/v1.0.1"><img src="https://img.shields.io/badge/Release-v1.0.1-2563eb?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Central Antifraude <sub>— sistemas distribuídos · em produção</sub></h3>
       <p>
         Plataforma B2B para <strong>avaliação de risco, monitoramento e investigação de transações suspeitas</strong>.
         Recebe uma transação, calcula um score determinístico e explicável e retorna
